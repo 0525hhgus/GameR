@@ -1,0 +1,3535 @@
+﻿no;id;game;time
+1;1;Force of Nature;152
+2;1;The Elder Scrolls V: Skyrim;142
+3;1;Assassin's Creed Origins;95
+4;1;Far Cry Primal;93
+5;1;Far Cry 4;71
+6;1;Mafia II;65
+7;1;Deus Ex: Mankind Divided™;55
+8;1;S.T.A.L.K.E.R.: Call of Pripyat;43
+9;1;Raft;39
+10;1;Kona;38
+11;1;Tom Clancy's Splinter Cell Blacklist;35
+12;1;No Man's Sky;31
+13;1;Salt;30
+14;1;Robocraft;30
+15;1;Rise of the Tomb Raider;30
+16;1;Assassin's Creed Syndicate;27
+17;1;Tomb Raider;24
+18;1;Sherlock Holmes: Crimes and Punishments;19.3
+19;1;Gunpoint;17
+20;1;The Forest;16.2
+21;1;Portal 2;14.5
+22;1;Spore;14.2
+23;1;Fine Sweeper;13.7
+24;1;Medieval Engineers;11.7
+25;1;Assassin's Creed® III;10.8
+26;1;Call of Duty: Advanced Warfare;10.8
+27;1;Antichamber;10.5
+28;1;Dead Rising 3;10.3
+29;1;L.A. Noire;9.8
+30;1;7 Days to Die;9.5
+31;1;Middle-earth™: Shadow of Mordor™;8.9
+32;1;Euro Truck Simulator 2;8.5
+33;1;Miasmata;7.7
+34;1;PLAYERUNKNOWN'S BATTLEGROUNDS;7.6
+35;1;Plague Inc: Evolved;7.3
+36;1;The Long Dark;6.4
+37;1;Rogue Legacy;6
+38;1;Kingdoms;5.5
+39;1;Stranded Deep;5
+40;1;The Talos Principle;4.7
+41;1;The Vanishing of Ethan Carter;4.6
+42;1;Door Kickers;4.4
+43;1;Half-Life;4.4
+44;1;ASTRONEER;4.1
+45;1;Dead Secret;4
+46;1;Rocket League;3.3
+47;1;Alien: Isolation;3.1
+48;1;Ultimate Chicken Horse;2.8
+49;1;Dear Esther;2.8
+50;1;Omerta - City of Gangsters;2.6
+51;1;Reign Of Kings;2.5
+52;1;Godus;2.4
+53;1;Sniper Elite V2;2.1
+54;1;Metro: Last Light;1.9
+55;1;BioShock Infinite;1.7
+56;1;1953 - KGB Unleashed;1.6
+57;1;Sir  You Are Being Hunted;1.6
+58;1;Team Fortress 2;1.5
+59;1;Farming Simulator 15;1.3
+60;1;Half-Life 2;1.2
+61;1;Gauntlet™;1.1
+62;1;Kentucky Route Zero;1.1
+63;1;Besiege;1
+64;1;Doorways: Prelude;0.9
+65;1;FEZ;0.8
+66;1;Kerbal Space Program;0.8
+67;1;Crysis Warhead;0.8
+68;1;BeamNG.drive;0.7
+69;1;DreadOut;0.7
+70;1;FTL: Faster Than Light;0.6
+71;1;Poker Night at the Inventory;0.6
+72;1;Portal;0.5
+73;1;Only If;0.4
+74;1;Euro Truck Simulator;0.4
+75;1;Dota 2;0.4
+76;1;Trickster VR;0.3
+77;1;Left 4 Dead 2;0.3
+78;1;SEGA Mega Drive & Genesis Classics;0.2
+79;1;Banished;0.2
+80;1;Castle Story;0.2
+81;1;Terraria;0.2
+82;1;Bully: Scholarship Edition;0.2
+83;1;Insurgency;0.2
+84;1;Quantum Conundrum;0.1
+85;2;Counter-Strike: Global Offensive;320
+86;2;Tom Clancy's Rainbow Six Siege;905
+87;2;Counter-Strike: Global Offensive;206
+88;2;Call of Duty: Black Ops II - Multiplayer;85
+89;2;PLAYERUNKNOWN'S BATTLEGROUNDS;71
+90;2;Far Cry 5;70
+91;2;The Forest;66
+92;2;Terraria;59
+93;2;theHunter: Call of the Wild™;59
+94;2;Grand Theft Auto V;55
+95;2;Rocket League;50
+96;2;The Crew 2;46
+97;2;War Thunder;46
+98;2;Farming Simulator 19;45
+99;2;DiRT 4;41
+100;2;Assetto Corsa;40
+101;2;Scrap Mechanic;34
+102;2;For Honor;30
+103;2;Warface;30
+104;2;WWE 2K18;22
+105;2;Call of Duty: Black Ops II;20
+106;2;Watch_Dogs 2;14.8
+107;2;Subnautica;10.9
+108;2;TrackMania² Valley;9.1
+109;2;Eco;8.8
+110;2;Call of Duty: Black Ops III;8.7
+111;2;Maize;8.5
+112;2;Rust;7.6
+113;2;Far Cry 4;6.4
+114;2;Borderlands 2;5.7
+115;2;Call of Duty: Black Ops II - Zombies;5.4
+116;2;Call of Duty 4: Modern Warfare;5.2
+117;2;Robocraft;4.4
+118;2;LEGO® Star Wars™ III: The Clone Wars™;4.1
+119;2;Ring of Elysium;4
+120;2;RaceRoom Racing Experience;2.1
+121;2;Unturned;1.9
+122;2;Prominence Poker;1.8
+123;2;Dota 2;1.5
+124;2;Grand Theft Auto: San Andreas;1.5
+125;2;Heroes & Generals;1.3
+126;2;Russian Fishing 4;1.3
+127;2;Counter-Strike: Source;1.3
+128;2;Far Cry® 3;1.1
+129;2;TrackMania Nations Forever;1
+130;2;Tom Clancy's Rainbow Six Siege - Test Server;0.8
+131;2;PAYDAY 2;0.8
+132;2;DiRT Rally;0.6
+133;2;Business Tour - Online Multiplayer Board Game;0.5
+134;2;RUSSIA BATTLEGROUNDS;0.4
+135;2;Black Squad;0.4
+136;2;BLOCKPOST;0.2
+137;3;Z1 Battle Royale;1215
+138;3;Grand Theft Auto V;502
+139;3;PLAYERUNKNOWN'S BATTLEGROUNDS;447
+140;3;Dota 2;78
+141;3;Wallpaper Engine;73
+142;3;Human: Fall Flat;50
+143;3;Counter-Strike: Global Offensive;34
+144;3;Dota Underlords;17.3
+145;3;Deceit;11
+146;3;Left 4 Dead 2;4.6
+147;3;Dead by Daylight;1
+148;3;H1Z1: Test Server;1
+149;4;Dota 2;103
+150;4;Counter-Strike: Global Offensive;17.1
+151;4;Heroes & Generals;0.3
+152;4;Cuisine Royale;0.2
+153;5;Counter-Strike: Global Offensive;628
+154;5;Grand Theft Auto V;302
+155;5;Wallpaper Engine;37
+156;5;War Thunder;11.5
+157;5;Crossout;8.6
+158;5;Euro Truck Simulator 2;7.6
+159;5;Left 4 Dead 2;4.9
+160;5;Paladins;4.4
+161;5;Left 4 Dead;2
+162;5;Survarium;1.2
+163;5;Dota 2;1.1
+164;6;Dota 2;148
+165;6;Counter-Strike: Global Offensive;0.2
+166;7;War Thunder;359
+167;7;Steel Ocean;48
+168;7;Unturned;39
+169;7;World of Warships;17.4
+170;7;Galactic Junk League;15.3
+171;7;Galaxy Control: 3D Strategy;11.1
+172;7;Team Fortress 2;6.9
+173;7;Tanki X;5.1
+174;7;Gear Up;5
+175;7;Star Conflict;4.3
+176;7;ONRAID;2.9
+177;7;Black Squad;1.8
+178;7;Dota 2;1.5
+179;7;PickCrafter;1.4
+180;7;Creativerse;1
+181;7;Alien Swarm: Reactive Drop;0.9
+182;7;Zombie Panic! Source;0.8
+183;7;Fistful of Frags;0.8
+184;7;Counter-Strike: Global Offensive;0.8
+185;7;Codename CURE;0.6
+186;7;BattleRush;0.4
+187;7;Battle Islands: Commanders;0.4
+188;7;WARMODE;0.4
+189;7;Navy Field 2 : Conqueror of the Ocean;0.2
+190;7;TDP4:Team Battle;0.2
+191;7;GunFleet;0.2
+192;8;Dota 2;18.1
+193;8;World of Tanks Blitz;11.7
+194;8;WARMODE;9.5
+195;8;Faeria;8.2
+196;8;Unturned;6.8
+197;8;Fallout Shelter;5.4
+198;8;Guild Quest;1.8
+199;8;Battle Islands: Commanders;1.6
+200;8;Infestation: The New Z;1
+201;8;Soda Dungeon;0.6
+202;8;Line of Sight;0.4
+203;8;Robocraft;0.3
+204;9;PLAYERUNKNOWN'S BATTLEGROUNDS;868
+205;9;Z1 Battle Royale;238
+206;9;Grand Theft Auto V;200
+207;9;MONSTER HUNTER: WORLD;129
+208;9;PAYDAY 2;110
+209;9;Counter-Strike: Global Offensive;100
+210;9;Left 4 Dead 2;26
+211;9;RESIDENT EVIL 2 / BIOHAZARD RE:2;17.1
+212;9;Don't Starve Together;16.6
+213;9;Ring of Elysium;12.9
+214;9;Human: Fall Flat;11.5
+215;9;Risk of Rain 2;8.4
+216;9;Dota 2;5.4
+217;9;KurtzPel;3.2
+218;9;Black Squad;3
+219;9;SNOW;2.7
+220;9;Castle Crashers;2.1
+221;9;Dungeon Defenders II;1.7
+222;9;Lucius;1.4
+223;9;DiRT Rally;1.4
+224;9;Cuisine Royale;1.3
+225;9;Terraria;1.1
+226;9;"RESIDENT EVIL 2 / BIOHAZARD RE:2 ""1-Shot Demo""";0.6
+227;9;HITMAN™ 2;0.3
+228;9;H1Z1: Test Server;0.2
+229;9;Team Fortress 2;0.2
+230;9;Fallout Shelter;0.1
+231;10;Counter-Strike: Global Offensive;211
+232;10;ARK: Survival Evolved;50
+233;10;Mount & Blade: Warband;21
+234;10;PLAYERUNKNOWN'S BATTLEGROUNDS;7.9
+235;10;Totally Accurate Battle Simulator;6.8
+236;10;Rocket League;6
+237;10;Besiege;4.7
+238;10;Mount & Blade: With Fire and Sword;4.4
+239;10;Euro Truck Simulator 2;3.4
+240;10;Heavy Metal Machines;1.7
+241;10;Stick Fight: The Game;0.9
+242;10;Team Fortress 2;0.3
+243;10;Rise of Liberty;0.1
+244;11;Grand Theft Auto V;119
+245;11;Counter-Strike: Global Offensive;3.2
+246;11;Counter-Strike: Global Offensive;404
+247;11;Unturned;274
+248;11;Everlasting Summer;33
+249;11;PAYDAY 2;27
+250;11;Garry's Mod;27
+251;11;Dota 2;17.2
+252;11;Rust;14.2
+253;11;DayZ;5.9
+254;11;Tabletop Simulator;5.1
+255;11;World of Tanks Blitz;4.1
+256;11;PLAYERUNKNOWN'S BATTLEGROUNDS;2.9
+257;11;Team Fortress 2;1.5
+258;11;Goat Simulator;1.5
+259;11;Magicka 2;1
+260;11;Totally Accurate Battlegrounds;0.5
+261;11;World of Guns: Gun Disassembly;0.3
+262;12;PLAYERUNKNOWN'S BATTLEGROUNDS;1841
+263;12;Z1 Battle Royale;629
+264;13;Counter-Strike: Global Offensive;8
+265;13;Counter-Strike: Global Offensive;197
+266;13;Door Kickers;16
+267;13;Alien Swarm: Reactive Drop;1.6
+268;13;DOOM;0.5
+269;14;PLAYERUNKNOWN'S BATTLEGROUNDS;350
+270;14;Dota 2;179
+271;14;Wallpaper Engine;39
+272;14;Warframe;27
+273;14;DRAGON BALL XENOVERSE 2;23
+274;14;CPUCores :: Maximize Your FPS;8.3
+275;14;Tom Clancy's Rainbow Six Siege;4.9
+276;14;Robocraft;4.5
+277;14;Heroes & Generals;3.7
+278;14;Black Squad;3.7
+279;14;Dreadnought;3.2
+280;14;Rento Fortune - Multiplayer Board Game;2.7
+281;14;Borderlands 2;2.6
+282;14;Tom Clancy's Rainbow Six Siege - Test Server;2.4
+283;14;Human: Fall Flat;2.1
+284;14;HITMAN™;0.2
+285;15;The Witcher 3: Wild Hunt;49
+286;15;War Thunder;42
+287;15;Watch_Dogs 2;24
+288;15;Chinese Parents;11.6
+289;15;Cat Quest;9.2
+290;15;Transistor;7.4
+291;15;FAR: Lone Sails;6.9
+292;15;KurtzPel;4.2
+293;15;To the Moon;4.1
+294;15;PLAYERUNKNOWN'S BATTLEGROUNDS;2.1
+295;15;Cuisine Royale;1.6
+296;15;HITMAN™;0.8
+297;15;Warface;0.2
+298;16;Counter-Strike: Global Offensive;1334
+299;16;Grand Theft Auto V;45
+300;16;PLAYERUNKNOWN'S BATTLEGROUNDS;34
+301;16;Dota 2;29
+302;16;Left 4 Dead 2;1.5
+303;16;The Crew 2;1.1
+304;16;Team Fortress 2;0.6
+305;16;CS:GO Player Profiles;0.4
+306;16;Dota Underlords;0.3
+307;16;Unturned;0.2
+308;17;Counter-Strike: Global Offensive;652
+309;17;PLAYERUNKNOWN'S BATTLEGROUNDS;17.1
+310;17;PAYDAY 2;11.1
+311;17;TEKKEN 7;11.1
+312;17;Black Squad;3.4
+313;18;Grand Theft Auto V;430
+314;18;Terraria;144
+315;18;Don't Starve Together;138
+316;18;Dead Cells;134
+317;18;Left 4 Dead 2;95
+318;18;Killing Floor 2;92
+319;18;Fallout 4;65
+320;18;Mad Max;32
+321;18;Wolfenstein: The New Order;23
+322;18;Life is Strange™;23
+323;18;DOOM;19
+324;18;G2 Fighter;18.9
+325;18;Half-Life 2;16.4
+326;18;Wolfenstein II: The New Colossus;16
+327;18;Metro 2033 Redux;15.5
+328;18;Metro: Last Light Redux;13.7
+329;18;Sniper Elite 4;10.8
+330;18;Wolfenstein: The Old Blood;8.7
+331;18;HITMAN™ 2;5.8
+332;18;Portal;5.6
+333;18;The Elder Scrolls V: Skyrim Special Edition;5.3
+334;18;Dota Underlords;5
+335;18;NEKOPARA Vol. 2;4.8
+336;18;NEKOPARA Vol. 1;4.5
+337;18;Heroes & Generals;2.4
+338;18;Call to Arms;1.6
+339;18;Dota 2;1.4
+340;18;Robocraft;1.3
+341;18;Counter-Strike: Global Offensive;1.1
+342;18;NEKOPARA Vol. 0;1.1
+343;18;NEKOPARA Vol. 3;1
+344;18;Unturned;0.8
+345;18;Drop Alive;0.6
+346;18;Team Fortress 2;0.5
+347;18;Killing Floor;0.3
+348;18;planetarian HD;0.3
+349;19;Deceit;0.2
+350;19;Dota 2;766
+351;19;Team Fortress 2;273
+352;19;Counter-Strike: Global Offensive;218
+353;19;Garry's Mod;96
+354;19;PAYDAY 2;33
+355;19;Move or Die;27
+356;19;Duck Game;9.4
+357;19;Paladins;5.2
+358;19;No More Room in Hell;4.3
+359;19;Stick Fight: The Game;3.2
+360;19;Fistful of Frags;2.7
+361;19;Unturned;2.7
+362;19;Brawlhalla;2
+363;19;Block N Load;1.7
+364;19;Crossout;1.2
+365;19;Ball 3D: Soccer Games;1
+366;19;Marvel Heroes Omega;0.8
+367;19;SMITE;0.7
+368;19;Black Squad;0.6
+369;19;Tanki Online;0.6
+370;19;We Were Here;0.5
+371;19;Dirty Bomb;0.5
+372;19;Deceit;0.5
+373;19;Heroes & Generals;0.4
+374;19;Marvel Puzzle Quest;0.4
+375;19;Line of Sight;0.4
+376;19;S.K.I.L.L. - Special Force 2;0.4
+377;19;Rogue Operatives;0.4
+378;19;Z1 Battle Royale;0.3
+379;19;BLOCKADE 3D;0.3
+380;19;Dota 2;0.3
+381;19;NosTale;0.3
+382;19;Tanki X;0.2
+383;19;Alien Swarm;0.2
+384;19;Darwin Project;0.2
+385;19;Sven Co-op;0.1
+386;19;A.V.A. Alliance of Valiant Arms™;0.1
+387;19;Strike.is: The Game;0.1
+388;19;Final Quest;0.1
+389;20;PLAYERUNKNOWN'S BATTLEGROUNDS;1496
+390;20;Grand Theft Auto V;140
+391;20;Counter-Strike: Global Offensive;89
+392;20;Z1 Battle Royale;59
+393;20;Deep Rock Galactic;36
+394;20;ARK: Survival Evolved;15.8
+395;20;Human: Fall Flat;9.6
+396;20;Wallpaper Engine;8.4
+397;20;Tom Clancy's Rainbow Six Siege;2.7
+398;20;Dota 2;1.1
+399;20;Battle Royale Trainer;0.5
+400;21;Tom Clancy's Rainbow Six Siege;1220
+401;21;World of Tanks Blitz;547
+402;21;Insurgency: Sandstorm;148
+403;21;War Thunder;132
+404;21;Squad;31
+405;21;Killing Floor 2;25
+406;21;Insurgency;23
+407;21;Left 4 Dead 2;18.4
+408;21;Tom Clancy's Rainbow Six Siege - Test Server;18.1
+409;21;DOOM;12.7
+410;21;Wallpaper Engine;10.5
+411;21;Shadow of the Tomb Raider;10
+412;21;Borderlands 2;9.9
+413;21;Wolfenstein: Youngblood;9.3
+414;21;Tomb Raider;8.3
+415;21;PAYDAY 2;8.2
+416;21;Counter-Strike: Global Offensive;3.8
+417;21;3DMark;3.4
+418;21;Broforce;2.1
+419;21;Heroes & Generals;0.8
+420;21;Metro 2033;0.5
+421;21;Homefront;0.3
+422;21;Black Survival;0.3
+423;21;Modern Combat Versus;0.1
+424;22;Rust;1759
+425;22;Dota 2;349
+426;22;Counter-Strike: Global Offensive;281
+427;22;The Witcher 3: Wild Hunt;34
+428;22;Dead Island Riptide;33
+429;22;Garry's Mod;27
+430;22;Trove;27
+431;22;Everlasting Summer;19.8
+432;22;No More Room in Hell;18.1
+433;22;Call of Duty: Modern Warfare 3;12.1
+434;22;GRAV;11
+435;22;Infestation: Survivor Stories Classic;8.4
+436;22;Spore;7.2
+437;22;Call of Duty: Modern Warfare 3 - Multiplayer;6.6
+438;22;PAYDAY 2;6.2
+439;22;Subnautica;5.2
+440;22;7 Days to Die;4.6
+441;22;Unturned;4.3
+442;22;ORION: Prelude;4.2
+443;22;Warframe;3.9
+444;22;Z1 Battle Royale;3.1
+445;22;Resident Evil Revelations 2 / Biohazard Revelations 2;2.4
+446;22;Shelter 2;1.5
+447;22;Hand of the Gods;1.3
+448;22;War Thunder;1
+449;22;Aftermath;0.9
+450;22;Evolve Stage 2;0.5
+451;22;Sakura Spirit;0.5
+452;22;Vortex: The Gateway;0.4
+453;22;Airscape: The Fall of Gravity;0.3
+454;22;Chivalry: Medieval Warfare;0.2
+455;22;Shadowgrounds;0.2
+456;22;Gun Rocket;0.2
+457;22;Infestation: The New Z;0.2
+458;22;Crossout;0.1
+459;23;Counter-Strike: Global Offensive;553
+460;23;Tom Clancy's Rainbow Six Siege;402
+461;23;Grand Theft Auto V;388
+462;23;Red Dead Redemption 2;177
+463;23;Titan Quest Anniversary Edition;116
+464;23;Men of War: Assault Squad;71
+465;23;Kerbal Space Program;65
+466;23;Sid Meier's Civilization VI;41
+467;23;World of Warships;40
+468;23;Saints Row IV;37
+469;23;Black Squad;35
+470;23;Call of Duty: WWII;24
+471;23;Garry's Mod;23
+472;23;Chinese Parents;19.5
+473;23;Deceit;18.9
+474;23;Prison Architect;13.8
+475;23;Men of War: Assault Squad 2;13.1
+476;23;Terraria;10.3
+477;23;Human: Fall Flat;9.7
+478;23;Call of Duty: WWII - Multiplayer;8.6
+479;23;Hand Simulator;6.4
+480;23;theHunter: Call of the Wild™;6.1
+481;23;Left 4 Dead 2;5
+482;23;Portal 2;4.8
+483;23;Call to Arms;4.3
+484;23;Brawlhalla;4.2
+485;23;DCS World Steam Edition;2.7
+486;23;Unturned;2.4
+487;23;FAR: Lone Sails;2.2
+488;23;SCP: Secret Laboratory;2.1
+489;23;Breeders of the Nephelym: Alpha;1.9
+490;23;Warface;1
+491;23;Pool 2D - Poolians;1
+492;23;Heroes & Generals;1
+493;23;DISTRAINT: Deluxe Edition;0.8
+494;23;HITMAN™ 2;0.7
+495;23;Mountain;0.7
+496;23;Z1 Battle Royale;0.4
+497;23;Tomb Raider;0.2
+498;23;Fractured Space;0.2
+499;23;War Thunder;0.1
+500;24;Dota 2;1446
+501;24;Shio;10.1
+502;24;PLAYERUNKNOWN'S BATTLEGROUNDS;5.1
+503;24;Counter-Strike: Global Offensive;1.1
+504;25;Dota 2;145
+505;25;Don't Starve Together;3.8
+506;25;Counter-Strike: Global Offensive;2
+507;25;Human: Fall Flat;1.9
+508;25;Dota Underlords;1.2
+509;26;Dota 2;718
+510;26;PLAYERUNKNOWN'S BATTLEGROUNDS;194
+511;26;Counter-Strike: Global Offensive;117
+512;26;Cities: Skylines;27
+513;26;Witch It;24
+514;26;Total War: THREE KINGDOMS;24
+515;26;Sid Meier's Civilization VI;21
+516;26;Euro Truck Simulator 2;16.8
+517;26;Mobile Empire;16.4
+518;26;Middle-earth™: Shadow of War™;15.5
+519;26;Human: Fall Flat;11.1
+520;26;Osiris: New Dawn;9.6
+521;26;They Are Billions;8.8
+522;26;Bus Simulator 18;6.3
+523;26;Amazing Cultivation Simulator;5.8
+524;26;Poly Bridge;5.1
+525;26;Wallpaper Engine;4.7
+526;26;Dota Underlords;1.7
+527;26;Warframe;0.8
+528;26;Shop Heroes;0.4
+529;26;Age of Wonders III;0.4
+530;26;Foxhole;0.2
+531;26;Warface;0.1
+532;27;Ring of Elysium;855
+533;27;PLAYERUNKNOWN'S BATTLEGROUNDS;210
+534;27;Counter-Strike: Global Offensive;0.3
+535;27;Counter-Strike: Global Offensive;1303
+536;27;Shakes and Fidget;11.9
+537;27;Heroes & Generals;4.5
+538;27;Last Man Standing;3.6
+539;27;Trove;3.4
+540;27;Albion Online;3.2
+541;27;TrackMania Nations Forever;3
+542;27;Business Tour - Online Multiplayer Board Game;2
+543;27;Metin2;1.7
+544;27;Euro Truck Simulator;0.5
+545;27;BRAIN / OUT;0.4
+546;27;Dota 2;0.2
+547;27;Paladins;0.2
+548;28;Euro Truck Simulator 2;7.9
+549;28;Insurgency;6.5
+550;28;Heroes & Generals;4.7
+551;28;Dota 2;4
+552;29;Dead by Daylight;513
+553;29;PLAYERUNKNOWN'S BATTLEGROUNDS;268
+554;29;Counter-Strike: Global Offensive;2.9
+555;29;Hell Wedding 夜嫁;2.7
+556;29;Outlast;0.4
+557;30;Grand Theft Auto V;423
+558;30;PAYDAY 2;152
+559;30;Fallout 4;125
+560;30;Streets of Rogue;121
+561;30;Left 4 Dead 2;96
+562;30;Tom Clancy's Rainbow Six Siege;82
+563;30;MONSTER HUNTER: WORLD;70
+564;30;Warframe;64
+565;30;Resident Evil 6 / Biohazard 6;57
+566;30;Tom Clancy's The Division;54
+567;30;Starbound;52
+568;30;The Witcher 3: Wild Hunt;44
+569;30;Tales of Berseria;39
+570;30;Danganronpa V3: Killing Harmony;30
+571;30;For Honor;25
+572;30;Hotline Miami 2: Wrong Number;23
+573;30;POSTAL 2;22
+574;30;Door Kickers: Action Squad;17.7
+575;30;東方憑依華　～ Antinomy of Common Flowers.;17.1
+576;30;Dead Rising 2: Off the Record;16.8
+577;30;Don't Starve Together;14.2
+578;30;Terraria;12.8
+579;30;Counter-Strike: Global Offensive;5.7
+580;30;Lobotomy Corporation;5
+581;30;Doki Doki Literature Club;1.9
+582;30;SCP: Secret Laboratory;1.4
+583;30;Dead by Daylight;1.1
+584;30;VRChat;1
+585;30;Unturned;0.7
+586;30;Changed;0.6
+587;30;WARMODE;0.4
+588;30;Borderlands 2;0.2
+589;30;Guild Quest;0.1
+590;31;Dota 2;1209
+591;31;Counter-Strike: Global Offensive;2.8
+592;32;Dota 2;554
+593;32;Counter-Strike: Global Offensive;297
+594;32;War Thunder;39
+595;32;World of Tanks Blitz;8.6
+596;32;Artifact;4
+597;32;VRChat;1.5
+598;32;The Forest;0.9
+599;32;Garry's Mod;0.2
+600;33;Dota 2;2642
+601;33;PLAYERUNKNOWN'S BATTLEGROUNDS;316
+602;33;Grand Theft Auto V;204
+603;33;Counter-Strike: Global Offensive;156
+604;33;Subnautica;21
+605;33;NARUTO SHIPPUDEN: Ultimate Ninja STORM 4;20
+606;33;World of Warships;18.1
+607;33;Dead by Daylight;15.3
+608;33;Sleeping Dogs: Definitive Edition;14
+609;33;Left 4 Dead 2;11.8
+610;33;Paladins;4.5
+611;33;Dota Underlords;3.5
+612;33;Garry's Mod;1.8
+613;34;Counter-Strike: Global Offensive;1702
+614;34;Dead by Daylight;663
+615;34;Realm Royale;106
+616;34;Grand Theft Auto V;49
+617;34;Just Cause 3;33
+618;34;Paladins;32
+619;34;Z1 Battle Royale;30
+620;34;The Forest;26
+621;34;PAYDAY 2;22
+622;34;Tower Unite;17.9
+623;34;Secret Neighbor;16.1
+624;34;Left 4 Dead 2;14.4
+625;34;Trove;14
+626;34;Rocket League;13.7
+627;34;Tom Clancy's Rainbow Six Siege;11.9
+628;34;The Long Dark;10.8
+629;34;Euro Truck Simulator 2;9
+630;34;War Thunder;7.8
+631;34;DC Universe Online;7.6
+632;34;Robocraft;6.5
+633;34;Garry's Mod;6.3
+634;34;Business Tour - Online Multiplayer Board Game;6
+635;34;Sniper Ghost Warrior 2;5.1
+636;34;Friday the 13th: The Game;3.3
+637;34;Hitman: Absolution;3.3
+638;34;Portal;2.1
+639;34;The Witcher: Enhanced Edition;1.6
+640;34;Half-Life 2;1
+641;34;Viscera Cleanup Detail: Shadow Warrior;0.9
+642;34;Unturned;0.6
+643;34;Half-Life 2: Lost Coast;0.5
+644;34;Portal 2;0.4
+645;35;Dota 2;662
+646;35;Counter-Strike: Global Offensive;487
+647;35;Counter-Strike;11.7
+648;35;S.K.I.L.L. - Special Force 2;5.2
+649;35;Batla;0.6
+650;35;Steampunk Syndicate;0.4
+651;35;Battlerite;0.4
+652;35;Heroes & Generals;0.3
+653;35;VRChat;0.1
+654;36;Dota 2;6.8
+655;37;Dota 2;4.6
+656;38;Counter-Strike: Global Offensive;312
+657;38;Brawlhalla;96
+658;38;CreativeDestruction;36
+659;38;Paladins;21
+660;38;Team Fortress 2;6.2
+661;38;Unturned;2.6
+662;38;WARMODE;0.2
+663;39;Rocket League;2341
+664;39;PLAYERUNKNOWN'S BATTLEGROUNDS;1244
+665;39;Call of Duty: Black Ops III;160
+666;39;Call of Duty: Modern Warfare 2 - Multiplayer;70
+667;39;Call of Duty: Black Ops II - Multiplayer;49
+668;39;Counter-Strike: Global Offensive;25
+669;39;Ring of Elysium;15.5
+670;39;Call of Duty: Black Ops - Multiplayer;5
+671;39;Call of Duty: Modern Warfare 2;2.1
+672;39;Euro Truck Simulator 2;1.7
+673;39;Call of Duty: Black Ops II - Zombies;1.2
+674;39;Z1 Battle Royale;0.8
+675;39;Insurgency;0.5
+676;39;Wallpaper Engine;0.3
+677;40;PLAYERUNKNOWN'S BATTLEGROUNDS;596
+678;40;Dota 2;162
+679;40;Grand Theft Auto V;41
+680;40;Wallpaper Engine;18.9
+681;40;Human: Fall Flat;2.8
+682;40;Ring of Elysium;1.4
+683;40;Counter-Strike: Global Offensive;0.6
+684;40;Team Fortress 2;0.6
+685;41;Dota 2;341
+686;41;Tom Clancy's Rainbow Six Siege;822
+687;41;Counter-Strike: Global Offensive;627
+688;41;MONSTER HUNTER: WORLD;582
+689;41;Grand Theft Auto V;554
+690;41;PLAYERUNKNOWN'S BATTLEGROUNDS;197
+691;41;DARK SOULS™ III;139
+692;41;Dying Light;102
+693;41;Total War: THREE KINGDOMS;85
+694;41;The Witcher 3: Wild Hunt;83
+695;41;Sekiro™: Shadows Die Twice;76
+696;41;Lost Castle;58
+697;41;Middle-earth™: Shadow of War™;45
+698;41;DYNASTY WARRIORS 8: Xtreme Legends Complete Edition;35
+699;41;Remnant: From the Ashes;22
+700;41;Assassin's Creed IV Black Flag;21
+701;41;Left 4 Dead 2;17.9
+702;41;Portal Knights;17.6
+703;41;Resident Evil 6 / Biohazard 6;17.1
+704;41;Assassin's Creed® III;15.4
+705;41;Rise of the Tomb Raider;15
+706;41;Assassin's Creed Revelations;10.3
+707;41;Plants vs. Zombies: Game of the Year;9.9
+708;41;Human: Fall Flat;9.7
+709;41;Grand Theft Auto: San Andreas;8.4
+710;41;Gremlins  Inc.;8.4
+711;41;Devil May Cry 5;8.1
+712;41;Devil May Cry® 4 Special Edition;8
+713;41;Onmyoji;7.9
+714;41;Quantum Break;7.4
+715;41;DmC Devil May Cry;6.8
+716;41;Castle Crashers;5.2
+717;41;Dark Elf;5.1
+718;41;Cities: Skylines;4.8
+719;41;Wallpaper Engine;2.8
+720;41;Poly Bridge;2.7
+721;41;The Sims(TM) 3;2.6
+722;41;Chinese Parents;2.6
+723;41;Middle-earth™: Shadow of Mordor™;2.6
+724;41;The Heiress;2.1
+725;41;Goat Simulator;2.1
+726;41;Plague Inc: Evolved;1.8
+727;41;Fistful of Frags;1.6
+728;41;DeathComing;1.5
+729;41;Move or Die;1.4
+730;41;Ultimate Chicken Horse;1.2
+731;41;Grand Theft Auto: Vice City;0.8
+732;41;CS2D;0.7
+733;41;PAYDAY 2;0.4
+734;41;100% Orange Juice;0.4
+735;41;Insurgency;0.3
+736;41;Counter-Strike: Condition Zero;0.2
+737;41;Europa Universalis IV;0.2
+738;41;Island Dash;0.1
+739;41;Death Road to Canada;0.1
+740;42;Counter-Strike: Global Offensive;1365
+741;42;Grand Theft Auto V;646
+742;42;PAYDAY 2;27
+743;42;Rocket League;8.7
+744;42;Unturned;4
+745;42;Dying Light;3.3
+746;42;Grand Theft Auto: San Andreas;3.2
+747;42;Warface;2
+748;42;Team Fortress 2;1.5
+749;42;Sven Co-op;0.7
+750;42;Freddy Fazbear's Pizzeria Simulator;0.2
+751;43;PLAYERUNKNOWN'S BATTLEGROUNDS;754
+752;43;Dota 2;181
+753;43;Slay the Spire;24
+754;43;Trine 4: The Nightmare Prince;11.6
+755;43;Tricolour Lovestory;3.3
+756;43;Wallpaper Engine;2.4
+757;43;Borderlands 2;2.2
+758;43;Human: Fall Flat;1.7
+759;43;Dead by Daylight;1.4
+760;43;Lost;0.8
+761;43;NEKOPARA Vol. 0;0.5
+762;43;The Red Front;0.2
+763;43;Hentai Girl;0.1
+764;44;WARMODE;3.5
+765;44;Uebergame;0.1
+766;44;War Thunder;0.1
+767;44;Unturned;0.1
+768;45;Slay the Spire;35
+769;45;Wallpaper Engine;13
+770;45;Plants vs. Zombies: Game of the Year;6.9
+771;45;Poly Bridge;6.4
+772;45;Counter-Strike: Global Offensive;3.8
+773;45;Ring of Elysium;2
+774;45;The Witcher 3: Wild Hunt;1.3
+775;45;World of Warships;0.7
+776;46;PLAYERUNKNOWN'S BATTLEGROUNDS;213
+777;47;PLAYERUNKNOWN'S BATTLEGROUNDS;806
+778;47;Counter-Strike: Global Offensive;759
+779;47;ASTRONEER;13.9
+780;47;Tom Clancy's Rainbow Six Siege;12.6
+781;47;Human: Fall Flat;5.9
+782;47;Dead by Daylight;2.9
+783;47;Wallpaper Engine;2.1
+784;48;War Thunder;361
+785;48;Counter-Strike: Global Offensive;320
+786;48;Unturned;253
+787;48;Heroes & Generals;142
+788;48;Terraria;127
+789;48;MudRunner;116
+790;48;Euro Truck Simulator 2;88
+791;48;Star Conflict;81
+792;48;Crossout;81
+793;48;TerraTech;79
+794;48;Don't Starve Together;59
+795;48;Rocket League;40
+796;48;PAYDAY 2;30
+797;48;Human: Fall Flat;18.1
+798;48;Garry's Mod;16
+799;48;Portal 2;15.1
+800;48;Ultimate Chicken Horse;11.5
+801;48;Team Fortress 2;9.4
+802;48;Heavy Metal Machines;1.7
+803;48;PLAYERUNKNOWN'S BATTLEGROUNDS;1.2
+804;48;CS2D;0.8
+805;48;Deceit;0.4
+806;48;Export Simulator;0.2
+807;49;Counter-Strike: Global Offensive;698
+808;49;Grand Theft Auto V;168
+809;49;Business Tour - Online Multiplayer Board Game;23
+810;49;Deceit;8.1
+811;49;Albion Online;6.7
+812;49;Infestation: The New Z;5.8
+813;49;Cat Goes Fishing;3.4
+814;49;Euro Truck Simulator 2;2.4
+815;49;Team Fortress 2;1.7
+816;49;Zula Europe;1.2
+817;49;Brawlhalla;1
+818;49;Ball 3D: Soccer Games;0.9
+819;49;Warframe;0.8
+820;49;Ring of Elysium;0.6
+821;49;Trove;0.6
+822;49;HITMAN™ 2;0.4
+823;49;PRO EVOLUTION SOCCER 2017 TRIAL EDITION;0.4
+824;49;Z1 Battle Royale;0.3
+825;50;NBA 2K19;136
+826;50;Grand Theft Auto V;100
+827;50;Car Mechanic Simulator 2018;18.7
+828;50;Hurtworld;7
+829;50;Z1 Battle Royale;4.7
+830;50;Team Fortress 2;1.8
+831;50;Black Squad;0.3
+832;51;Dota 2;1266
+833;51;Counter-Strike: Global Offensive;406
+834;51;Garry's Mod;254
+835;51;Enter the Gungeon;227
+836;51;Terraria;168
+837;51;Paladins;123
+838;51;Team Fortress 2;92
+839;51;PAYDAY 2;71
+840;51;Brawlhalla;71
+841;51;Yu-Gi-Oh! Duel Links;69
+842;51;CreativeDestruction;30
+843;51;Fistful of Frags;30
+844;51;Blacklight: Retribution;24
+845;51;Borderlands 2;20
+846;51;No More Room in Hell;19.8
+847;51;BattleBlock Theater;19.8
+848;51;Dead by Daylight;18.3
+849;51;SCP: Secret Laboratory;17.5
+850;51;Don't Starve Together;17.1
+851;51;BlazBlue Centralfiction;16.1
+852;51;SpeedRunners;15.7
+853;51;Insurgency;15.6
+854;51;Castle Crashers;15.6
+855;51;Left 4 Dead 2;14.5
+856;51;Stick Fight: The Game;13.9
+857;51;Skullgirls;13.8
+858;51;Unturned;12.6
+859;51;Hotline Miami;8.9
+860;51;Blockstorm;8.5
+861;51;Cry of Fear;8.3
+862;51;Starbound;7.9
+863;51;Champions Online;7.8
+864;51;PAYDAY: The Heist;7.7
+865;51;Blade Symphony;6.8
+866;51;Hotline Miami 2: Wrong Number;6.5
+867;51;Spiral Knights;6.4
+868;51;ORION: Prelude;5.9
+869;51;Guns of Icarus Online;5.8
+870;51;Portal 2;5.8
+871;51;How to Survive;5.7
+872;51;Guns of Icarus Alliance;5.7
+873;51;Worms Revolution;4.3
+874;51;GUN;4.2
+875;51;Modern Combat Versus;4.1
+876;51;Rules Of Survival;4
+877;51;Realm of the Mad God;3.9
+878;51;Tabletop Simulator;3.6
+879;51;Sniper Fury;3.4
+880;51;Closers;2.9
+881;51;Hero Zero;2.8
+882;51;Tactical Intervention;2.5
+883;51;Counter-Strike;2.3
+884;51;The Witcher: Enhanced Edition;2.2
+885;51;Trove;2.1
+886;51;Resident Evil Revelations 2 / Biohazard Revelations 2;2.1
+887;51;Tricky Towers;2.1
+888;51;Of Guards And Thieves;2
+889;51;Gotham City Impostors: Free To Play;1.9
+890;51;MapleStory 2;1.9
+891;51;Magicka;1.8
+892;51;Reigns;1.7
+893;51;Super Crate Box;1.5
+894;51;Robocraft;1.5
+895;51;Zone4;1.3
+896;51;Doki Doki Literature Club;1.3
+897;51;Xeodrifter™;1.3
+898;51;Bloody Trapland;1.3
+899;51;Bot Vice;1.3
+900;51;Creativerse;1.3
+901;51;Blood and Bacon;1.2
+902;51;Counter-Strike Nexon: Studio;1.2
+903;51;Toribash;1.2
+904;51;Hotline Miami 2: Wrong Number Digital Comic;1.1
+905;51;Downwell;1.1
+906;51;Business Tour - Online Multiplayer Board Game;1.1
+907;51;APB Reloaded;1
+908;51;Simply Chess;1
+909;51;Rocketbirds: Hardboiled Chicken;1
+910;51;Confess My Love;0.9
+911;51;Block N Load;0.9
+912;51;Yet Another Zombie Defense;0.8
+913;51;SOS;0.8
+914;51;Fallen Earth;0.7
+915;51;Freddy Fazbear's Pizzeria Simulator;0.7
+916;51;Tribes: Ascend;0.7
+917;51;Warframe;0.7
+918;51;Codename CURE;0.6
+919;51;Dino D-Day;0.6
+920;51;Saints Row IV Inauguration Station;0.6
+921;51;Eldritch;0.6
+922;51;Counter-Strike: Condition Zero;0.6
+923;51;Refunct;0.5
+924;51;Transformice;0.5
+925;51;Superflight;0.5
+926;51;Never Split the Party;0.4
+927;51;Slap City;0.4
+928;51;Skullgirls ∞Endless Beta∞;0.4
+929;51;BlazBlue: Calamity Trigger;0.4
+930;51;Ring of Elysium;0.4
+931;51;Viscera Cleanup Detail: Santa's Rampage;0.4
+932;51;Friday the 13th: Killer Puzzle;0.4
+933;51;Dirty Bomb;0.3
+934;51;Brief Karate Foolish;0.3
+935;51;UNO;0.3
+936;51;Bastion;0.3
+937;51;Arma 2: DayZ Mod;0.3
+938;51;CS2D;0.3
+939;51;Skyhook;0.3
+940;51;Super Monday Night Combat;0.3
+941;51;Contagion;0.2
+942;51;Heroes & Generals;0.2
+943;51;Boring Man - Online Tactical Stickman Combat;0.2
+944;51;WARMODE;0.2
+945;51;Saints Row: The Third - Initiation Station;0.2
+946;51;Hacknet;0.2
+947;51;Hide and Seek;0.2
+948;51;Survarium;0.2
+949;51;Line of Sight;0.2
+950;51;WT2;0.2
+951;51;Anomaly Zone;0.2
+952;51;Blender;0.2
+953;51;Robin;0.2
+954;51;Tiger Knight;0.1
+955;51;Half-Life 2: Deathmatch;0.1
+956;51;BRINK;0.1
+957;51;BRAIN / OUT;0.1
+958;51;Infestation: The New Z;0.1
+959;51;Spooky's Jump Scare Mansion;0.1
+960;51;Archeblade;0.1
+961;51;Rumble Fighter: Unleashed;0.1
+962;51;Apotheon Arena;0.1
+963;51;Life is Strange™;0.1
+964;51;AdVenture Capitalist;0.1
+965;52;Counter-Strike: Global Offensive;495
+966;52;PLAYERUNKNOWN'S BATTLEGROUNDS;171
+967;52;Tom Clancy's Rainbow Six Siege;153
+968;52;Dota 2;132
+969;52;Left 4 Dead 2;32
+970;52;Insurgency;1.6
+971;52;PAYDAY 2;0.7
+972;52;Dota Underlords;0.7
+973;53;Unturned;1797
+974;53;Counter-Strike: Global Offensive;970
+975;53;Dying Light;440
+976;53;PAYDAY 2;319
+977;53;Borderlands 2 RU;151
+978;53;Dead Island Definitive Edition;142
+979;53;Dead Island Riptide Definitive Edition;113
+980;53;Terraria;96
+981;53;Castle Crashers;62
+982;53;Metro: Last Light Redux;59
+983;53;Infestation: The New Z;52
+984;53;The Forest;50
+985;53;Tom Clancy's Rainbow Six Siege;45
+986;53;The Crew;44
+987;53;Trove;40
+988;53;Raft;37
+989;53;Left 4 Dead 2;36
+990;53;Crossout;34
+991;53;Paladins;33
+992;53;Garry's Mod;33
+993;53;Serious Sam 3: BFE;30
+994;53;Slime Rancher;30
+995;53;Robocraft;26
+996;53;Dead Rising 2;26
+997;53;Metro 2033 Redux;25
+998;53;Tomb Raider;19.8
+999;53;Don't Starve Together;18.1
+1000;53;Saints Row IV;17.7
+1001;53;Car Mechanic Simulator 2018;14.8
+1002;53;Saints Row: The Third;13.3
+1003;53;Black Squad;12.5
+1004;53;Heroes & Generals;12.1
+1005;53;Fishing Planet;11
+1006;53;Half-Life 2;11
+1007;53;Call of Duty: Ghosts;9.4
+1008;53;Call of Duty: Ghosts - Multiplayer;8.4
+1009;53;7 Days to Die;8.1
+1010;53;Destiny 2;7.2
+1011;53;No More Room in Hell;6.9
+1012;53;Deceit;6.9
+1013;53;Kuboom;6.6
+1014;53;Wallpaper Engine;5.9
+1015;53;Borderlands 2;5.7
+1016;53;Realm Royale;5.2
+1017;53;Modern Combat 5;4.7
+1018;53;Walking Zombie 2;4.2
+1019;53;Resident Evil 6 / Biohazard 6;3.6
+1020;53;Watch_Dogs;3.4
+1021;53;Evolve Stage 2;3.1
+1022;53;The Culling Of The Cows;2.5
+1023;53;POSTAL 2;2.5
+1024;53;BattleBlock Theater;1.6
+1025;53;Z1 Battle Royale;1.5
+1026;53;Totally Accurate Battlegrounds;1.4
+1027;53;Just Cause 3;1.3
+1028;53;Dying Light: Bad Blood;1.3
+1029;53;Borderlands: The Pre-Sequel;1.2
+1030;53;Line of Sight;1.1
+1031;53;Russian Fishing 4;1.1
+1032;53;Warframe;1.1
+1033;53;Team Fortress 2;1
+1034;53;VRChat;0.9
+1035;53;BRAIN / OUT;0.9
+1036;53;theHunter Classic;0.8
+1037;53;Dead Maze;0.7
+1038;53;Counter-Strike Nexon: Studio;0.5
+1039;53;Survarium;0.5
+1040;53;Last Man Standing;0.5
+1041;53;Fallout Shelter;0.5
+1042;53;Of Guards And Thieves;0.5
+1043;53;BLOCKADE 3D;0.4
+1044;53;PickCrafter;0.4
+1045;53;Brawlhalla;0.4
+1046;53;Modern Combat Versus;0.4
+1047;53;Pixel Puzzles Ultimate;0.4
+1048;53;High Octane Drift;0.3
+1049;53;Darwin Project;0.2
+1050;53;MadOut2 BigCityOnline;0.2
+1051;53;Friday the 13th: Killer Puzzle;0.2
+1052;53;Alien Swarm: Reactive Drop;0.2
+1053;53;Ring of Elysium;0.2
+1054;53;Blacklight: Retribution;0.2
+1055;53;Radical Heights;0.1
+1056;54;Dota 2;2.4
+1057;55;Counter-Strike: Global Offensive;1285
+1058;55;Rocket League;1159
+1059;55;Tom Clancy's Rainbow Six Siege;145
+1060;55;Clicker Heroes;77
+1061;55;Ultimate Chicken Horse;66
+1062;55;Grand Theft Auto V;60
+1063;55;Paladins;40
+1064;55;APB Reloaded;23
+1065;55;Golf With Your Friends;21
+1066;55;Team Fortress 2;21
+1067;55;Brawlhalla;20
+1068;55;TrackMania Nations Forever;17.1
+1069;55;Left 4 Dead 2;15.1
+1070;55;Ring of Elysium;15
+1071;55;TrackMania United Forever;9.7
+1072;55;Worm.is: The Game;8.9
+1073;55;Portal 2;8.7
+1074;55;S.K.I.L.L. - Special Force 2;6.7
+1075;55;Just Cause 3;6.1
+1076;55;Shakes and Fidget;4.4
+1077;55;FlatOut 2;4.1
+1078;55;Clustertruck;4
+1079;55;Don't Starve Together;3.7
+1080;55;Z1 Battle Royale;3.4
+1081;55;Business Tour - Online Multiplayer Board Game;2.2
+1082;55;Warframe;2.2
+1083;55;Insurgency;2.1
+1084;55;Cuisine Royale;1.8
+1085;55;Need for Speed: Hot Pursuit;1.7
+1086;55;The Witcher 2: Assassins of Kings Enhanced Edition;1.7
+1087;55;Counter-Strike;1.3
+1088;55;PAYDAY 2;1.2
+1089;55;AdVenture Capitalist;1.1
+1090;55;Unturned;1.1
+1091;55;Creativerse;1
+1092;55;Rust;0.9
+1093;55;Car Mechanic Simulator 2015;0.8
+1094;55;Terraria;0.8
+1095;55;Robocraft;0.7
+1096;55;Mass Effect 2;0.4
+1097;55;Left 4 Dead;0.3
+1098;55;Human: Fall Flat;0.3
+1099;55;BLOCKADE 3D;0.1
+1100;55;Crossout;0.1
+1101;56;Tom Clancy's Rainbow Six Siege;336
+1102;56;Counter-Strike: Global Offensive;66
+1103;56;Sekiro™: Shadows Die Twice;59
+1104;56;PLAYERUNKNOWN'S BATTLEGROUNDS;29
+1105;56;Assassin's Creed IV Black Flag;18.6
+1106;56;Garry's Mod;18.3
+1107;56;Robocraft;18.3
+1108;56;Unturned;10.3
+1109;56;Warface;6.3
+1110;56;Ravenfield;5.8
+1111;56;Terraria;5.5
+1112;56;Tank Force;4.1
+1113;56;HITMAN™ 2;2.8
+1114;56;Ring of Elysium;0.5
+1115;56;Sniper Fury;0.4
+1116;56;Block N Load;0.2
+1117;56;Fractured Space;0.1
+1118;56;Fallout Shelter;0.1
+1119;57;Counter-Strike: Global Offensive;350
+1120;57;Rust;245
+1121;57;Garry's Mod;44
+1122;57;Far Cry 5;43
+1123;57;BattleBit Remastered;31
+1124;57;The Forest;28
+1125;57;Black Squad;23
+1126;57;PAYDAY 2;22
+1127;57;Brick Rigs;19.9
+1128;57;Halo: The Master Chief Collection;14
+1129;57;Totally Accurate Battlegrounds;13
+1130;57;Paladins;11.4
+1131;57;Terraria;8.9
+1132;57;Unturned;7.5
+1133;57;Darwin Project;7.2
+1134;57;Team Fortress 2;7
+1135;57;Sven Co-op;7
+1136;57;Stick Fight: The Game;6.8
+1137;57;Ultimate Chicken Horse;6.7
+1138;57;The Escapists 2;6.2
+1139;57;Line of Sight;5.6
+1140;57;Realm Royale;5.5
+1141;57;Tom Clancy's Rainbow Six Siege;5
+1142;57;Hand Simulator;4.7
+1143;57;Robocraft;4.6
+1144;57;Dead Island Riptide Definitive Edition;4.2
+1145;57;Portal 2;4.2
+1146;57;Dead by Daylight;4
+1147;57;Door Kickers;3.8
+1148;57;Portal Stories: Mel;3.4
+1149;57;BRAIN / OUT;3.3
+1150;57;Deceit;3.3
+1151;57;Tanki X;3.2
+1152;57;Wallpaper Engine;3.1
+1153;57;Crossout;2.5
+1154;57;Tomb Raider;2.4
+1155;57;King of the Couch: Zoovival;2.3
+1156;57;BattleRush;2.1
+1157;57;Secret Neighbor Beta;1.9
+1158;57;SurvivalZ Battlegrounds;1.8
+1159;57;PLAYERUNKNOWN'S BATTLEGROUNDS;1.8
+1160;57;Double Action: Boogaloo;1.7
+1161;57;Z1 Battle Royale;1.6
+1162;57;Resident Evil 6 / Biohazard 6;1.5
+1163;57;Rocket League;1.5
+1164;57;Destiny 2;1.1
+1165;57;Loadout;1.1
+1166;57;Magicka;0.8
+1167;57;Dirty Bomb;0.8
+1168;57;VRChat;0.8
+1169;57;Counter-Strike Nexon: Studio;0.8
+1170;57;Friday the 13th: Killer Puzzle;0.7
+1171;57;Hide and Shriek;0.6
+1172;57;Synergy;0.6
+1173;57;Galactic Junk League;0.4
+1174;57;Fallout Shelter;0.3
+1175;57;A Story About My Uncle;0.2
+1176;57;Battlerite;0.1
+1177;58;World of Tanks Blitz;66
+1178;58;Counter-Strike: Global Offensive;2743
+1179;58;PLAYERUNKNOWN'S BATTLEGROUNDS;59
+1180;58;The Long Dark;23
+1181;58;Garry's Mod;14.6
+1182;58;Age of Empires® III: Complete Collection;12.5
+1183;58;Business Tour - Online Multiplayer Board Game;5
+1184;58;Rising Storm 2: Vietnam;4.8
+1185;58;Human: Fall Flat;4.7
+1186;58;Zup! 8;2.3
+1187;58;Mount & Blade: Warband;2.3
+1188;58;Zup! X;2.2
+1189;58;Zup! S;1.7
+1190;58;Metin2;1.2
+1191;58;GRID 2;0.7
+1192;58;PAYDAY 2;0.3
+1193;58;Dota 2;0.2
+1194;59;Dota 2;6.4
+1195;60;Terraria;29
+1196;60;Cities: Skylines;0.3
+1197;61;MONSTER HUNTER: WORLD;340
+1198;61;The Witcher 3: Wild Hunt;80
+1199;61;Slay the Spire;33
+1200;61;Left 4 Dead 2;23
+1201;61;Human: Fall Flat;7.4
+1202;61;Lost Castle;1.9
+1203;61;Ring of Elysium;1.2
+1204;61;Dota 2;0.5
+1205;61;Insurgency;0.1
+1206;62;Counter-Strike: Global Offensive;2831
+1207;62;Crossout;128
+1208;62;Paladins;15.6
+1209;62;PlanetSide 2;2.1
+1210;62;Black Squad;1.6
+1211;62;Dirty Bomb;0.7
+1212;62;Dota 2;0.6
+1213;63;Counter-Strike: Global Offensive;2481
+1214;63;NARUTO TO BORUTO: SHINOBI STRIKER;68
+1215;63;Grand Theft Auto V;56
+1216;63;PLAYERUNKNOWN'S BATTLEGROUNDS;51
+1217;63;WWE 2K19;44
+1218;63;Paladins;30
+1219;63;Tom Clancy's Rainbow Six Siege;22
+1220;63;NBA 2K18;5.9
+1221;63;Call of Duty: Black Ops II - Multiplayer;4.3
+1222;63;Blackwake;3.4
+1223;63;Fallout Shelter;3.2
+1224;63;Terraria;2.6
+1225;63;Hand Simulator;2.4
+1226;63;Business Tour - Online Multiplayer Board Game;2.2
+1227;63;Black Squad;1.9
+1228;63;VRChat;1.7
+1229;63;Dead by Daylight;1.5
+1230;63;Mount Your Friends;1.3
+1231;63;Ring of Elysium;1
+1232;63;HITMAN™;0.7
+1233;63;Call of Duty: Black Ops II;0.7
+1234;63;Brawlhalla;0.1
+1235;64;Don't Starve;251
+1236;64;Don't Starve Together;6.2
+1237;64;Farm Together;0.2
+1238;65;Terraria;50
+1239;65;Bloons TD Battles;10.8
+1240;65;SORE;3.3
+1241;65;Counter-Strike: Global Offensive;2.1
+1242;65;Fallout Shelter;1.7
+1243;65;Clicker Heroes;1.2
+1244;65;Bendy and the Ink Machine;0.4
+1245;65;Team Fortress 2;0.4
+1246;65;Destiny 2;0.3
+1247;65;Istrolid;0.3
+1248;65;AdVenture Capitalist;0.2
+1249;65;Misfire;0.1
+1250;66;Dota 2;710
+1251;66;Counter-Strike: Global Offensive;227
+1252;66;Realm Royale;33
+1253;66;Left 4 Dead 2;12.6
+1254;67;Rust;215
+1255;67;Clicker Heroes;177
+1256;67;Terraria;103
+1257;67;Bloons TD 6;27
+1258;67;Geometry Dash;21
+1259;67;Grand Theft Auto V;17.2
+1260;67;UNO;16.2
+1261;67;ARK: Survival Evolved;13.6
+1262;67;Subnautica;8.1
+1263;67;Counter-Strike: Global Offensive;6.4
+1264;67;Getting Over It with Bennett Foddy;1.1
+1265;68;PLAYERUNKNOWN'S BATTLEGROUNDS;1300
+1266;68;Counter-Strike: Global Offensive;1192
+1267;68;Tom Clancy's Rainbow Six Siege;679
+1268;68;Grand Theft Auto V;255
+1269;68;Garry's Mod;228
+1270;68;Unturned;147
+1271;68;Rust;115
+1272;68;Grand Theft Auto IV;78
+1273;68;Just Survive;70
+1274;68;Z1 Battle Royale;47
+1275;68;Left 4 Dead 2;19.9
+1276;68;Team Fortress 2;15
+1277;68;NARUTO SHIPPUDEN: Ultimate Ninja STORM 4;11.3
+1278;68;Deceit;6.6
+1279;68;Angvik;6
+1280;68;Supraball;5.4
+1281;68;Wallpaper Engine;4.4
+1282;68;PAYDAY 2;4.2
+1283;68;Heroes & Generals;2.9
+1284;68;Trove;1.6
+1285;68;theHunter Classic;0.8
+1286;68;Black Squad;0.8
+1287;68;Dota 2;0.7
+1288;68;Totally Accurate Battlegrounds;0.6
+1289;68;Bloons TD Battles;0.4
+1290;68;War of the Roses;0.3
+1291;68;World of Tanks Blitz;0.1
+1292;68;Robocraft;0.1
+1293;69;Warframe;737
+1294;69;Grand Theft Auto V;552
+1295;69;Garry's Mod;530
+1296;69;Terraria;324
+1297;69;Destiny 2;252
+1298;69;Trove;237
+1299;69;Left 4 Dead 2;164
+1300;69;MONSTER HUNTER: WORLD;112
+1301;69;Tom Clancy's Rainbow Six Siege;96
+1302;69;Stardew Valley;68
+1303;69;Wallpaper Engine;54
+1304;69;For Honor;51
+1305;69;Don't Starve Together;41
+1306;69;Black Squad;41
+1307;69;Pixel Worlds;36
+1308;69;Unturned;32
+1309;69;PLAYERUNKNOWN'S BATTLEGROUNDS;27
+1310;69;Viscera Cleanup Detail;27
+1311;69;Robocraft;13
+1312;69;ARK: Survival Evolved;12.7
+1313;69;Prominence Poker;12.4
+1314;69;Team Fortress 2;12.2
+1315;69;Mirror;12.2
+1316;69;Katana ZERO;9.8
+1317;69;Dead by Daylight;9.8
+1318;69;Wizard of Legend;9.3
+1319;69;theHunter: Primal;9.1
+1320;69;A Dance of Fire and Ice;8.2
+1321;69;Warface;8.1
+1322;69;The Binding of Isaac: Rebirth;7.3
+1323;69;The Crew 2;5.7
+1324;69;Assassin's Creed Unity;5.7
+1325;69;Prison Architect;5.5
+1326;69;Never Split the Party;5
+1327;69;Portal 2;4.9
+1328;69;Age of Empires II: Definitive Edition;3.8
+1329;69;War Thunder;3.8
+1330;69;Dota 2;3.8
+1331;69;Don't Starve;3.7
+1332;69;DiRT Rally;3.1
+1333;69;PAYDAY 2;3
+1334;69;Lost;2.9
+1335;69;Borderlands 2;1.9
+1336;69;West Sweety;1.8
+1337;69;Dying Light;1.6
+1338;69;Vanquish;1.1
+1339;69;Cities: Skylines;1
+1340;69;Eroico;0.8
+1341;69;Breeders of the Nephelym: Alpha;0.2
+1342;69;theHunter Classic;0.2
+1343;70;Dota 2;1570
+1344;70;Portal Knights;26
+1345;70;Richman10;22
+1346;70;Don't Starve Together;18.4
+1347;70;Dota Underlords;14.4
+1348;70;Brawlhalla;9.9
+1349;70;Alien Swarm: Reactive Drop;2.2
+1350;70;Counter-Strike: Global Offensive;1.5
+1351;71;Albion Online;2041
+1352;71;Garry's Mod;2040
+1353;71;SMITE;890
+1354;71;Black Desert Online;862
+1355;71;Dota 2;583
+1356;71;Warframe;370
+1357;71;Terraria;246
+1358;71;Rust;221
+1359;71;Borderlands 2;205
+1360;71;Trove;176
+1361;71;Grand Theft Auto V;169
+1362;71;The Forest;161
+1363;71;Counter-Strike: Global Offensive;153
+1364;71;Unturned;116
+1365;71;Realm of the Mad God;111
+1366;71;Tom Clancy's Rainbow Six Siege;111
+1367;71;Don't Starve Together;104
+1368;71;The Elder Scrolls V: Skyrim;100
+1369;71;Path of Exile;93
+1370;71;Team Fortress 2;83
+1371;71;Neverwinter;72
+1372;71;Raft;69
+1373;71;Robocraft;67
+1374;71;The Elder Scrolls V: Skyrim Special Edition;66
+1375;71;ShellShock Live;60
+1376;71;For Honor;55
+1377;71;Mount & Blade: Warband;52
+1378;71;War Thunder;51
+1379;71;The Escapists 2;36
+1380;71;VRChat;36
+1381;71;Banished;34
+1382;71;Paladins;32
+1383;71;Risk of Rain 2;29
+1384;71;Warhammer: Vermintide 2;27
+1385;71;Castle Crashers;26
+1386;71;PAYDAY 2;23
+1387;71;Battlerite;22
+1388;71;Golf With Your Friends;20
+1389;71;Papers  Please;19.3
+1390;71;Tom Clancy's Ghost Recon® Wildlands;18.9
+1391;71;Brawlhalla;17.7
+1392;71;EverQuest II;16.4
+1393;71;Warface;15.6
+1394;71;Dead by Daylight;14.5
+1395;71;Creativerse;14.1
+1396;71;Pirates  Vikings  & Knights II;12.3
+1397;71;Bloons TD Battles;12.1
+1398;71;AirMech Strike;11.5
+1399;71;Left 4 Dead 2;10.8
+1400;71;Mortal Kombat X;10.5
+1401;71;Rocket League;10.3
+1402;71;Dungeon Defenders II;10.1
+1403;71;Conan Exiles;9.7
+1404;71;Borderlands: The Pre-Sequel;9.5
+1405;71;CastleMiner Z;9.3
+1406;71;PlanetSide 2;9.3
+1407;71;Guns of Icarus Alliance;8.7
+1408;71;Guns of Icarus Online;8.6
+1409;71;Orcs Must Die! 2;8
+1410;71;Deceit;8
+1411;71;Bendy and the Ink Machine;7.3
+1412;71;Hounds: The Last Hope;7.2
+1413;71;The Witcher 3: Wild Hunt;6.8
+1414;71;The Lord of the Rings Online™;6.5
+1415;71;Geometry Dash;5.3
+1416;71;Art of War: Red Tides;5.1
+1417;71;Worms Revolution;4.6
+1418;71;Cloud Pirates;4.3
+1419;71;Stardew Valley;4.2
+1420;71;Riders of Icarus;4.2
+1421;71;Orcs Must Die! Unchained;4
+1422;71;Codename CURE;4
+1423;71;Portal 2;3.9
+1424;71;WildStar;3.7
+1425;71;Quake Champions;3.4
+1426;71;Oh...Sir! The Insult Simulator;3.3
+1427;71;Dirty Bomb;3.2
+1428;71;Dead Frontier 2;3.2
+1429;71;Alien Swarm: Reactive Drop;3.2
+1430;71;Magicite;3.2
+1431;71;MINDNIGHT;3.1
+1432;71;BrainBread 2;3
+1433;71;Ultimate Custom Night;2.9
+1434;71;Totally Accurate Battlegrounds;2.9
+1435;71;Chivalry: Medieval Warfare;2.7
+1436;71;Full Metal Furies;2.7
+1437;71;Eldevin;2.6
+1438;71;Gone Home;2.6
+1439;71;Stick Fight: The Game;2.5
+1440;71;Risk of Rain;2.5
+1441;71;Governor of Poker 3;2.4
+1442;71;Learn to Fly 3;2.4
+1443;71;Gauntlet™;2.4
+1444;71;HEX: Shards of Fate;2.3
+1445;71;TERA;2
+1446;71;UNO;1.9
+1447;71;Fistful of Frags;1.7
+1448;71;Novus Inceptio;1.7
+1449;71;HELLDIVERS™;1.6
+1450;71;Montaro;1.6
+1451;71;Wallpaper Engine;1.6
+1452;71;scram;1.5
+1453;71;Gear Up;1.5
+1454;71;Emily is Away;1.4
+1455;71;Total War Battles: KINGDOM;1.4
+1456;71;Five Nights at Freddy's: Sister Location;1.2
+1457;71;Murder Miners;1.2
+1458;71;Metin2;1.1
+1459;71;BRAIN / OUT;1.1
+1460;71;ONRAID;1.1
+1461;71;Clicker Heroes;1
+1462;71;World of Tanks Blitz;1
+1463;71;Tactical Intervention;1
+1464;71;Ring of Elysium;1
+1465;71;Genital Jousting;0.9
+1466;71;Mount Your Friends;0.9
+1467;71;Crossout;0.8
+1468;71;Coloring Pixels;0.8
+1469;71;Hunger Dungeon;0.8
+1470;71;Desert Bus VR;0.8
+1471;71;SCP: Secret Laboratory;0.8
+1472;71;EVE Online;0.7
+1473;71;Strife;0.7
+1474;71;Imperial Glory;0.7
+1475;71;Zeus' Battlegrounds;0.7
+1476;71;Rec Room;0.6
+1477;71;Conqueror's Blade;0.6
+1478;71;Eden Rising;0.6
+1479;71;Fallout Shelter;0.6
+1480;71;Argo;0.6
+1481;71;Evolve Stage 2;0.6
+1482;71;Anomaly Zone;0.6
+1483;71;Secret World Legends;0.6
+1484;71;High Octane Drift;0.5
+1485;71;Skyforge;0.5
+1486;71;theHunter Classic;0.5
+1487;71;ArcheAge;0.5
+1488;71;Devilian;0.5
+1489;71;Awesomenauts;0.5
+1490;71;RPG MO;0.5
+1491;71;GRID 2;0.4
+1492;71;School of Dragons: How to Train Your Dragon;0.4
+1493;71;Primal Carnage;0.4
+1494;71;1982;0.4
+1495;71;Moonbase Alpha;0.4
+1496;71;No More Room in Hell;0.4
+1497;71;Time of Dragons;0.4
+1498;71;Last Man Standing;0.4
+1499;71;Gods and Idols;0.4
+1500;71;Freddy Fazbear's Pizzeria Simulator;0.4
+1501;71;ARK: Survival Of The Fittest;0.3
+1502;71;The Expendabros;0.3
+1503;71;Trimmer Tycoon;0.3
+1504;71;Golf It!;0.3
+1505;71;Tabletopia;0.3
+1506;71;Maelstrom;0.3
+1507;71;Dragon Nest;0.3
+1508;71;Spiral Knights;0.3
+1509;71;Dungeonland;0.3
+1510;71;Helmet Heroes;0.3
+1511;71;SAS: Zombie Assault 4;0.3
+1512;71;Borderlands GOTY;0.3
+1513;71;Block N Load;0.3
+1514;71;Of Guards And Thieves;0.3
+1515;71;Destiny 2;0.3
+1516;71;Kingdom: Classic;0.2
+1517;71;Survarium;0.2
+1518;71;Realm Grinder;0.2
+1519;71;Toribash;0.2
+1520;71;Wizard101;0.2
+1521;71;Zombie Panic! Source;0.2
+1522;71;Vindictus;0.2
+1523;71;Aim Lab;0.2
+1524;71;Nomad;0.2
+1525;71;MapleStory 2;0.2
+1526;71;Zeal;0.1
+1527;71;Struckd - 3D Game Creator;0.1
+1528;71;BallisticNG;0.1
+1529;71;Immersion Chess;0.1
+1530;71;Age of Conan: Unchained;0.1
+1531;71;Idle Champions of the Forgotten Realms;0.1
+1532;71;Strike.is: The Game;0.1
+1533;71;Mitos.is: The Game;0.1
+1534;71;Atlas Reactor;0.1
+1535;71;Shardbound;0.1
+1536;72;Dota 2;2.1
+1537;72;Counter-Strike: Global Offensive;488
+1538;72;Terraria;437
+1539;72;Robocraft;385
+1540;72;Enter the Gungeon;355
+1541;72;The Binding of Isaac: Rebirth;80
+1542;72;Besiege;39
+1543;72;Portal 2;33
+1544;72;The Binding of Isaac;29
+1545;72;MachineCraft;19.2
+1546;72;Garry's Mod;18.6
+1547;72;Never Split the Party;11.8
+1548;72;Creativerse;10
+1549;72;World of Tanks Blitz;5
+1550;72;Car Mechanic Simulator 2018;4
+1551;72;Left 4 Dead 2;3.9
+1552;72;Skullgirls;3.2
+1553;72;Fistful of Frags;2.7
+1554;72;Dota 2;2
+1555;72;Albion Online;2
+1556;72;Portal Stories: Mel;1.4
+1557;72;Teeworlds;1
+1558;72;Thinking with Time Machine;0.7
+1559;72;Unturned;0.7
+1560;72;Team Fortress 2;0.5
+1561;72;World of Guns: Gun Disassembly;0.5
+1562;72;Fuse;0.4
+1563;72;Hunger Dungeon;0.2
+1564;72;Car Mechanic Simulator 2014;0.2
+1565;72;Paladins;0.2
+1566;72;BRAIN / OUT;0.1
+1567;72;Strike.is: The Game;0.1
+1568;73;Dota 2;2814
+1569;73;Tomb Raider;32
+1570;73;Half-Life 2;18.9
+1571;73;MURDERED: SOUL SUSPECT™;14.7
+1572;73;Portal;14.2
+1573;73;Half-Life;13.8
+1574;73;Portal 2;13.4
+1575;73;Half-Life 2: Episode Two;8.8
+1576;73;Half-Life: Opposing Force;6.8
+1577;73;Half-Life 2: Episode One;6.3
+1578;73;Half-Life: Blue Shift;4
+1579;73;Half-Life: C.A.G.E.D.;2.8
+1580;73;Left 4 Dead;2.2
+1581;73;Dota Underlords;2.2
+1582;73;Unturned;2.6
+1583;73;Loadout;2
+1584;73;Tactical Intervention;1.5
+1585;74;PLAYERUNKNOWN'S BATTLEGROUNDS;314
+1586;74;Tom Clancy's Rainbow Six Siege;131
+1587;74;Dota 2;108
+1588;74;Z1 Battle Royale;41
+1589;74;Stardew Valley;39
+1590;74;Borderlands 2;31
+1591;74;My Time At Portia;30
+1592;74;Subnautica;27
+1593;74;Wallpaper Engine;25
+1594;74;Assassin's Creed II;22
+1595;74;Dead Cells;21
+1596;74;The Long Dark;14
+1597;74;Warhammer: Vermintide 2;10.3
+1598;74;Dota Underlords;7.8
+1599;74;Dying Light;4.8
+1600;74;No Man's Sky;4.2
+1601;74;Human: Fall Flat;3.9
+1602;74; Sands of Salzaar;3.5
+1603;74;Hobo: Tough Life;3.3
+1604;74;Assassin's Creed IV Black Flag;2.3
+1605;74;Battlerite;1.9
+1606;74;Gang Beasts;1
+1607;74;Zombie Army Trilogy;0.7
+1608;74;Ring of Elysium;0.5
+1609;75;Dota 2;6.3
+1610;76;Rocket League;402
+1611;76;Z1 Battle Royale;6.7
+1612;76;Realm Royale;0.8
+1613;77;PLAYERUNKNOWN'S BATTLEGROUNDS;1048
+1614;77;Euro Truck Simulator 2;307
+1615;77;Grand Theft Auto V;280
+1616;77;F1 2018;4.2
+1617;77;Counter-Strike: Global Offensive;3.1
+1618;77;Witch It;0.9
+1619;78;Counter-Strike: Global Offensive;673
+1620;78;CPUCores :: Maximize Your FPS;260
+1621;78;Tom Clancy's Rainbow Six Siege;256
+1622;78;Black Desert;203
+1623;78;Euro Truck Simulator 2;30
+1624;78;Human: Fall Flat;9.9
+1625;78;Town of Salem;9.5
+1626;78;Warframe;3.6
+1627;78;Brawlhalla;2.7
+1628;78;Friday the 13th: The Game;2.7
+1629;78;Need for Speed: Hot Pursuit;2.7
+1630;78;The Witcher 3: Wild Hunt;2.4
+1631;78;Wallpaper Engine;2
+1632;78;Soundpad;1.8
+1633;78;Easy eSports;1
+1634;78;Domina;0.7
+1635;78;Tower Unite;0.7
+1636;78;Insurgency;0.7
+1637;78;Paladins;0.6
+1638;78;Slash It 2;0.4
+1639;78;Half-Life 2: Deathmatch;0.3
+1640;78;Papers  Please - The Short Film;0.2
+1641;78;Hentai Girl;0.1
+1642;78;Business Tour - Online Multiplayer Board Game;0.1
+1643;79;PLAYERUNKNOWN'S BATTLEGROUNDS;1082
+1644;79;Z1 Battle Royale;320
+1645;79;Dota 2;278
+1646;79;Wallpaper Engine;40
+1647;79;The Forest;38
+1648;79;Risk of Rain 2;30
+1649;79;Dota Underlords;12
+1650;79;Human: Fall Flat;11.5
+1651;79;Deceit;8.8
+1652;79;Counter-Strike: Global Offensive;7.7
+1653;79;Tom Clancy's The Division;4
+1654;79;Witch It;2.4
+1655;79;Pummel Party;1.9
+1656;79;Yu-Gi-Oh! Duel Links;0.1
+1657;80;Don't Starve Together;33
+1658;80;Life is Strange™;28
+1659;80;Left 4 Dead 2;24
+1660;80;Material Girl;16.2
+1661;80;Ori and the Blind Forest;15.8
+1662;80;To the Moon;9.9
+1663;80;Rise of the Tomb Raider;6
+1664;80;Grand Theft Auto V;4.4
+1665;80;Confess My Love;4.3
+1666;80;Don't Starve;3.8
+1667;80;Transformice;1.9
+1668;80;Wallpaper Engine;0.6
+1669;80;Tomb Raider;3.9
+1670;80;Paladins;0.2
+1671;81;Dota 2;3830
+1672;81;PLAYERUNKNOWN'S BATTLEGROUNDS;736
+1673;81;Counter-Strike: Global Offensive;33
+1674;81;Heroes & Generals;22
+1675;81;Warframe;8.3
+1676;81;Dead Frontier 2;5.1
+1677;81;Easy eSports;2.8
+1678;81;Unturned;2.7
+1679;82;Counter-Strike: Global Offensive;5474
+1680;82;Tom Clancy's Rainbow Six Siege;344
+1681;82;Assassin's Creed Odyssey;193
+1682;82;Assassin's Creed Origins;131
+1683;82;Assassin's Creed Syndicate;36
+1684;82;Grand Theft Auto V;30
+1685;82;The Witcher 3: Wild Hunt;27
+1686;82;Ring of Elysium;22
+1687;82;Dying Light;19
+1688;82;Counter-Strike: Source;14.6
+1689;82;ARK: Survival Evolved;13.7
+1690;82;Rise of the Tomb Raider;12.7
+1691;82;Tomb Raider;9.7
+1692;82;Left 4 Dead 2;8.4
+1693;82;Z1 Battle Royale;6.4
+1694;82;Assassin's Creed III Remastered;5.6
+1695;82;Fistful of Frags;5
+1696;82;3DMark;3.7
+1697;82;Chinese Parents;3.1
+1698;82;Steep;3
+1699;82;Need for Speed: Hot Pursuit;2.9
+1700;82;Half-Life 2;2.2
+1701;82;War Thunder;2.1
+1702;82;Black Squad;1.6
+1703;82;Dota 2;1
+1704;82;Material Girl;1
+1705;82;Warface;1
+1706;82;Wallpaper Engine;0.9
+1707;82;DiRT Rally;0.8
+1708;82;Counter-Strike;0.8
+1709;82;DEAD OR ALIVE Xtreme Venus Vacation;0.8
+1710;82;DARK SOULS™ III;0.8
+1711;82;Evolve Stage 2;0.7
+1712;82;Hellblade: Senua's Sacrifice;0.7
+1713;82;Super Seducer 2 : Advanced Seduction Tactics;0.7
+1714;82;Assassin’s Creed® Chronicles: China;0.5
+1715;82;Team Fortress 2;0.3
+1716;82;HITMAN™;0.2
+1717;82;CS2D;0.2
+1718;82;Tricolour Lovestory;0.2
+1719;82;The Awesome Adventures of Captain Spirit;0.1
+1720;82;H1Z1: Test Server;0.1
+1721;83;Counter-Strike: Global Offensive;1695
+1722;83;Dota 2;999
+1723;83;Z1 Battle Royale;670
+1724;83;PLAYERUNKNOWN'S BATTLEGROUNDS;651
+1725;83;Dead by Daylight;495
+1726;83;MONSTER HUNTER: WORLD;256
+1727;83;Conan Exiles;166
+1728;83;Tom Clancy's Rainbow Six Siege;57
+1729;83;Red Dead Redemption 2;39
+1730;83;Grand Theft Auto V;27
+1731;83;Depth;13.2
+1732;83;Dota Underlords;12.2
+1733;83;Stardew Valley;11.1
+1734;83;Gremlins  Inc.;10.9
+1735;83;Tricky Towers;8.7
+1736;83;Prison Architect;7.9
+1737;83;Human: Fall Flat;7.1
+1738;83;Just Survive;6.8
+1739;83;H1Z1: Test Server;6.3
+1740;83;Gang Beasts;6
+1741;83;Don't Starve Together;6
+1742;83;Battlerite;5
+1743;83;Rento Fortune - Multiplayer Board Game;4.7
+1744;83;Pummel Party;4.1
+1745;83;Richman10;3.2
+1746;83;Sniper Elite 4;3.2
+1747;83;Left 4 Dead 2;2.9
+1748;83;NBA 2K18;2.1
+1749;83;ASTRONEER;1.9
+1750;83;Wallpaper Engine;1.8
+1751;83;Team Fortress 2;1.3
+1752;83;Mark of the Ninja;1.1
+1753;83;Spelunky;1.1
+1754;83;Deceit;1
+1755;83;Insurgency;1
+1756;83;THE KING OF FIGHTERS XIV STEAM EDITION;0.8
+1757;83;For Honor;0.6
+1758;83;Factorio;0.5
+1759;83;PAYDAY 2;0.5
+1760;83;Peekaboo;0.5
+1761;83;Street Fighter V;0.5
+1762;83;resident evil 4 / biohazard 4;0.2
+1763;83;Raft;0.2
+1764;83;Cities: Skylines;0.2
+1765;84;PLAYERUNKNOWN'S BATTLEGROUNDS;293
+1766;84;Grand Theft Auto V;166
+1767;84;Left 4 Dead 2;37
+1768;84;Prototype;25
+1769;84;ICEY;17.7
+1770;84;Counter-Strike: Global Offensive;16.6
+1771;84;Borderlands 2;9.3
+1772;84;BioShock Infinite;8.8
+1773;84;Resident Evil Revelations / Biohazard Revelations;8.1
+1774;84;Warframe;8
+1775;84;Killing Floor 2;7.6
+1776;84;Plague Inc: Evolved;5.3
+1777;84;Firewatch;4.8
+1778;84;Lost Castle;3.8
+1779;84;Ballistic Overkill;3.5
+1780;84;Sins of a Solar Empire: Rebellion;3.2
+1781;84;Left 4 Dead;3.1
+1782;84;Tomb Raider;2.5
+1783;84;Half-Life 2;2.5
+1784;84;Fallout 4;2.4
+1785;84;The Witcher 3: Wild Hunt;1.9
+1786;84;Half-Life 2: Deathmatch;1.7
+1787;84;DreadOut: Keepers of The Dark;1.4
+1788;84;Rise of the Tomb Raider;1.2
+1789;84;Half-Life 2: Lost Coast;1.1
+1790;84;The Elder Scrolls V: Skyrim Special Edition;0.8
+1791;84;Resident Evil 5 / Biohazard 5;0.8
+1792;84;Home Behind;0.7
+1793;84;PROTOTYPE 2;0.6
+1794;84;Assassin's Creed IV Black Flag;0.5
+1795;84;Resident Evil Revelations 2 / Biohazard Revelations 2;0.4
+1796;84;DOOM;0.3
+1797;84;Rebel Galaxy;0.2
+1798;84;Half-Life 2: Episode One;0.2
+1799;84;DreadOut;0.2
+1800;84;Zasa - An AI Story;0.1
+1801;85;Dota 2;870
+1802;85;Stardew Valley;68
+1803;85;Undertale;1.7
+1804;85;Human: Fall Flat;0.1
+1805;86;Dota 2;1182
+1806;86;Counter-Strike Nexon: Studio;0.2
+1807;87;Dota 2;524
+1808;87;Black Squad;78
+1809;88;PLAYERUNKNOWN'S BATTLEGROUNDS;216
+1810;88;Terraria;45
+1811;88;Portal Knights;30
+1812;88;How to Survive 2;13.4
+1813;88;Ring of Elysium;1
+1814;89;Counter-Strike: Global Offensive;2355
+1815;89;Sid Meier's Civilization VI;105
+1816;89;PLAYERUNKNOWN'S BATTLEGROUNDS;34
+1817;89;Euro Truck Simulator 2;18.1
+1818;89;7 Days to Die;16.3
+1819;89;Ring of Elysium;3.7
+1820;89;UNO;2.4
+1821;89;Light Bearers;1.3
+1822;89;We Were Here;1
+1823;89;Golf With Your Friends;1
+1824;89;Hand Simulator;0.4
+1825;89;Zombie Panic! Source;0.4
+1826;90;Counter-Strike: Global Offensive;293
+1827;90;Dota 2;210
+1828;90;Fallout 4;171
+1829;90;PLAYERUNKNOWN'S BATTLEGROUNDS;106
+1830;90;The Forest;41
+1831;90;POSTAL 2;25
+1832;90;Worms Clan Wars;19.6
+1833;90;Grand Theft Auto IV;16.8
+1834;90;Garry's Mod;8.2
+1835;90;Dying Light;3.2
+1836;90;Team Fortress 2;0.7
+1837;91;Counter-Strike: Global Offensive;123
+1838;91;PAYDAY 2;18.2
+1839;91;Business Tour - Online Multiplayer Board Game;10.5
+1840;91;Paladins;3.9
+1841;91;Zula Europe;1
+1842;91;SCP: Secret Laboratory;0.6
+1843;92;WRC 7;185
+1844;92;Wallpaper Engine;140
+1845;92;Unturned;46
+1846;92;Amazing Cultivation Simulator;44
+1847;92;War Thunder;39
+1848;92;World of Tanks Blitz;20
+1849;92;DiRT Rally;17.2
+1850;92;Yokai's Secret;1.2
+1851;93;Counter-Strike: Global Offensive;854
+1852;93;Rocket League;249
+1853;93;Grand Theft Auto V;54
+1854;93;PLAYERUNKNOWN'S BATTLEGROUNDS;49
+1855;93;Garry's Mod;38
+1856;93;Euro Truck Simulator 2;22
+1857;93;Far Cry® 3;19.2
+1858;93;Brawlhalla;10.4
+1859;93;Don't Starve Together;9.3
+1860;93;Tower Unite;9.2
+1861;93;PAYDAY 2;8.8
+1862;93;Business Tour - Online Multiplayer Board Game;7.7
+1863;93;Outlast;6.9
+1864;93;Sniper Elite 3;5.7
+1865;93;NBA 2K19;3.4
+1866;93;Raft;3.2
+1867;93;Terraria;2.8
+1868;93;Borderlands 2;1.9
+1869;93;Mortal Kombat: Legacy: Scorpion and Sub-Zero (Part 2);1.9
+1870;93;Friday the 13th: The Game;1.4
+1871;93;Z1 Battle Royale;1.2
+1872;93;Zula Online;0.9
+1873;93;The Forest;0.8
+1874;93;Heroes & Generals;0.5
+1875;93;Transformice;0.4
+1876;93;Warface Turkey;0.3
+1877;93;Mortal Kombat: Legacy;0.2
+1878;94;Dota 2;6.5
+1879;95;PLAYERUNKNOWN'S BATTLEGROUNDS;942
+1880;95;Dota 2;0.2
+1881;96;Counter-Strike: Global Offensive;456
+1882;96;PLAYERUNKNOWN'S BATTLEGROUNDS;228
+1883;96;For Honor;49
+1884;96;Batman: The Enemy Within - The Telltale Series;25
+1885;96;The Walking Dead: The Final Season;21
+1886;96;Batman - The Telltale Series;16.9
+1887;96;Call of Duty: Black Ops;16.1
+1888;96;Ring of Elysium;15.7
+1889;96;Tom Clancy's Splinter Cell Blacklist;14
+1890;96;The Walking Dead: A New Frontier;12.5
+1891;96;The Walking Dead;12.1
+1892;96;Business Tour - Online Multiplayer Board Game;8.7
+1893;96;The Walking Dead: Season Two;8.5
+1894;96;Wallpaper Engine;5
+1895;96;Garry's Mod;2.8
+1896;96;Heroes & Generals;2.3
+1897;96;Black Squad;1.4
+1898;96;Battlerite;0.8
+1899;96;Unturned;0.5
+1900;96;Warface;0.5
+1901;96;VRChat;0.3
+1902;96;Call of Duty: Black Ops - Multiplayer;0.2
+1903;97;Dead by Daylight;553
+1904;97;Soundpad;505
+1905;97;Paladins;195
+1906;97;PLAYERUNKNOWN'S BATTLEGROUNDS;142
+1907;97;Black Desert;142
+1908;97;Farm Together;118
+1909;97;KurtzPel;89
+1910;97;Riders of Icarus;64
+1911;97;Dota 2;55
+1912;97;Shadow of the Tomb Raider;54
+1913;97;Rise of the Tomb Raider;41
+1914;97;Shop Heroes;30
+1915;97;The Forest;18
+1916;97;Town of Salem;11.8
+1917;97;Business Tour - Online Multiplayer Board Game;11.6
+1918;97;Party Panic;10.8
+1919;97;Battlerite Royale;9.4
+1920;97;Counter-Strike: Global Offensive;9.2
+1921;97;Human: Fall Flat;7.3
+1922;97;Warframe;4.9
+1923;97;Borderlands 2;3.7
+1924;97;Never Split the Party;3.7
+1925;97;Battlerite;1.4
+1926;97;Left 4 Dead 2;1.4
+1927;97;Pacify;1.1
+1928;97;Blackwake;1
+1929;97;Brawlhalla;0.6
+1930;97;Friday the 13th: The Game;0.5
+1931;97;Florensia;0.3
+1932;97;BombTag;0.1
+1933;98;PLAYERUNKNOWN'S BATTLEGROUNDS;1425
+1934;98;Rust;298
+1935;98;Z1 Battle Royale;209
+1936;98;Dead by Daylight;37
+1937;98;Portal Knights;19.6
+1938;98;PAYDAY 2;17.3
+1939;98;The Forest;16
+1940;98;No Man's Sky;12.1
+1941;98;Counter-Strike: Global Offensive;1.3
+1942;98;Dota 2;1.2
+1943;98;Unturned;1.2
+1944;98;Deceit;1
+1945;98;Ring of Elysium;0.6
+1946;98;H1Z1: Test Server;0.1
+1947;99;Dota 2;662
+1948;99;Counter-Strike: Global Offensive;10
+1949;99;Infestation: The New Z;0.6
+1950;100;Dota 2;324
+1951;100;Wallpaper Engine;62
+1952;100;Ring of Elysium;27
+1953;100;Dead by Daylight;17.5
+1954;100;Counter-Strike: Global Offensive;11.6
+1955;100;Warframe;2.6
+1956;100;Mirror;1.8
+1957;100;Team Fortress 2;1.4
+1958;100;Insurgency;0.6
+1959;100;Star Conflict;0.4
+1960;100;Alien Swarm: Reactive Drop;0.2
+1961;100;Free to Play;0.1
+1962;101;Piercing Blow;1997
+1963;101;Counter-Strike: Global Offensive;71
+1964;101;Black Squad;26
+1965;101;Zula Europe;25
+1966;101;Euro Truck Simulator 2;15.2
+1967;101;Paladins;10.2
+1968;101;Warface;2.6
+1969;101;Call of Duty: Modern Warfare 3;1.9
+1970;101;EVE Online;1.1
+1971;101;Ring of Elysium;0.3
+1972;101;Call of Duty: Modern Warfare 3 - Multiplayer;0.3
+1973;102;Tom Clancy's Rainbow Six Siege;265
+1974;102;Grand Theft Auto V;39
+1975;102;Don't Starve Together;26
+1976;102;Euro Truck Simulator 2;24
+1977;102;Human: Fall Flat;23
+1978;102;Getting Over It with Bennett Foddy;17.9
+1979;102;Counter-Strike: Global Offensive;11.8
+1980;102;Soul Island;5.1
+1981;102;Peekaboo;4.5
+1982;102;RaceRoom Racing Experience;4.3
+1983;102;Super Animal Royale;1.9
+1984;102;Pacify;1.3
+1985;102;PLAYERUNKNOWN'S BATTLEGROUNDS;1.1
+1986;102;Heave Ho;1.1
+1987;102;Heroes & Generals;0.7
+1988;102;Glory of the Self-Styled Diehard girl;0.4
+1989;102;Team Fortress 2;0.2
+1990;102;RUSSIA BATTLEGROUNDS;0.2
+1991;103;Team Fortress 2;1730
+1992;103;Garry's Mod;221
+1993;103;Robocraft;140
+1994;103;Counter-Strike: Global Offensive;97
+1995;103;Toribash;55
+1996;103;Portal 2;41
+1997;103;Teeworlds;35
+1998;103;Source Filmmaker;33
+1999;103;Unturned;32
+2000;103;WAKFU;30
+2001;103;ARK: Survival Evolved;29
+2002;103;Paladins;27
+2003;103;Altitude;17.7
+2004;103;Blender;16.9
+2005;103;Gang Beasts;13.6
+2006;103;Goat Simulator;11.7
+2007;103;Octodad: Dadliest Catch;9.8
+2008;103;Transformice;9.4
+2009;103;Getting Over It with Bennett Foddy;6.4
+2010;103;scram;6.1
+2011;103;A Story About My Uncle;6
+2012;103;VRChat;5.4
+2013;103;Move or Die;3.6
+2014;103;ShellShock Live;2.7
+2015;103;Gear Up;2.6
+2016;103;Star Conflict;2.6
+2017;103;Guns of Icarus Online;2.4
+2018;103;I am Bread;2.3
+2019;103;The Stanley Parable;2.3
+2020;103;Godot Engine;1.9
+2021;103;Brawlhalla;1.3
+2022;103;Fishing Planet;1.1
+2023;103;McOsu;1
+2024;103;Galcon 2;1
+2025;103;Realm Royale;1
+2026;103;Akaneiro: Demon Hunters;0.8
+2027;103;Thinking with Time Machine;0.7
+2028;103;CreativeDestruction;0.7
+2029;103;Supraball;0.5
+2030;103;Warfork;0.4
+2031;103;Holy Potatoes! A Weapon Shop?!;0.4
+2032;103;Dota 2;0.3
+2033;103;HYPERFIGHT;0.3
+2034;103;Trove;0.3
+2035;103;Krosmaster Arena;0.2
+2036;103;The Way of Life Free Edition;0.2
+2037;103;Battlerite Royale;0.2
+2038;103;Draw Slasher;0.2
+2039;104;Grand Theft Auto V;41
+2040;104;Wallpaper Engine;41
+2041;104;Blender;6
+2042;104;FlowScape;5.6
+2043;104;BUILD;3.8
+2044;104;Event Horizon;2
+2045;104;ICEY;2
+2046;104;Team Fortress 2;1.7
+2047;104;Pixel Studio for pixel art;0.8
+2048;104;Dota Underlords;0.5
+2049;104;World of Warships;0.5
+2050;105;Dota 2;352
+2051;106;The Binding of Isaac: Rebirth;378
+2052;106;Enter the Gungeon;77
+2053;106;Slay the Spire;55
+2054;106;Warframe;52
+2055;106;Clicker Heroes;50
+2056;106;Plague Inc: Evolved;26
+2057;106;TERA;15.4
+2058;106;MechWarrior Online;10.9
+2059;106;Wandersong;10.7
+2060;106;WAKFU;7.7
+2061;106;Magic Duels;7.5
+2062;106;Bloons TD Battles;5.8
+2063;106;Sonic Mania;2.2
+2064;106;Yu-Gi-Oh! Duel Links;0.5
+2065;106;Bit Heroes;0.1
+2066;107;PLAYERUNKNOWN'S BATTLEGROUNDS;765
+2067;107;Counter-Strike: Global Offensive;657
+2068;107;Z1 Battle Royale;87
+2069;107;Human: Fall Flat;15.7
+2070;107;Destiny 2;13.3
+2071;107;Wallpaper Engine;10.6
+2072;107;Richman10;5.6
+2073;107;Rento Fortune - Multiplayer Board Game;3.7
+2074;107;60 Seconds!;2
+2075;107;Dota 2;0.9
+2076;108;Counter-Strike: Global Offensive;276
+2077;108;Unturned;63
+2078;108;PAYDAY 2;47
+2079;108;Brawlhalla;38
+2080;108;Terraria;37
+2081;108;Creativerse;20
+2082;108;Brawl of Ages;15
+2083;108;Left 4 Dead 2;9.3
+2084;108;Easy eSports;7.3
+2085;108;Dungeon Defenders II;5.9
+2086;108;Fallout Shelter;3.5
+2087;108;Deceit;0.9
+2088;108;Ultimate Custom Night;0.6
+2089;108;Noise;0.5
+2090;108;Radical Heroes: Crimson City Crisis;0.2
+2091;108;Paladins;0.2
+2092;108;Last Man Standing;0.2
+2093;108;Metin2;0.1
+2094;109;Arma 3;1710
+2095;109;PLAYERUNKNOWN'S BATTLEGROUNDS;981
+2096;109;Grand Theft Auto V;104
+2097;109;Counter-Strike: Global Offensive;80
+2098;109;MudRunner;39
+2099;109;SCUM;19.8
+2100;109;Deceit;8.2
+2101;109;Ring of Elysium;7.7
+2102;109;Euro Truck Simulator 2;5.3
+2103;109;Human: Fall Flat;4.2
+2104;109;Dota 2;3.5
+2105;109;War Thunder;2.9
+2106;109;9Dragons: Kung Fu Arena;1.5
+2107;109;Heroes & Generals;0.6
+2108;110;Counter-Strike: Global Offensive;290
+2109;110;Tom Clancy's Rainbow Six Siege;77
+2110;110;PAYDAY 2;52
+2111;110;Euro Truck Simulator 2;23
+2112;110;Portal 2;7.1
+2113;110;Dead by Daylight;6.2
+2114;110;Destiny 2;2.8
+2115;110;Valakas Story;2.7
+2116;110;Mirror's Edge;2.3
+2117;110;Warframe;1.9
+2118;110;Friday the 13th: The Game;1.8
+2119;110;Dota 2;1.8
+2120;110;VRChat;1.3
+2121;110;Fallout Shelter;0.2
+2122;111;Dota 2;503
+2123;111;Grand Theft Auto V;319
+2124;111;For Honor;133
+2125;111;Dota Underlords;85
+2126;111;Tom Clancy's Rainbow Six Siege;81
+2127;111;Total War: WARHAMMER II;71
+2128;111;Counter-Strike: Global Offensive;56
+2129;111;PLAYERUNKNOWN'S BATTLEGROUNDS;51
+2130;111;Total War: THREE KINGDOMS;36
+2131;111;Total War: WARHAMMER;20
+2132;111;Sid Meier's Civilization V;20
+2133;111;Warhammer: Vermintide 2;16.9
+2134;111;No Man's Sky;16.8
+2135;111;Hunt: Showdown;14.1
+2136;111;Sid Meier's Civilization VI;13.1
+2137;111;Divinity: Original Sin 2;11
+2138;111;MORDHAU;7.8
+2139;111;Path of Exile;6.1
+2140;111;The Elder Scrolls Online;6
+2141;111;Slay the Spire;5.4
+2142;111;Wallpaper Engine;5.3
+2143;111;Don't Starve Together;4.9
+2144;111;Chinese Parents;4
+2145;111;MONSTER HUNTER: WORLD;3.9
+2146;111;Black Desert Online;3.9
+2147;111;SMITE;3.5
+2148;111;Stick Fight: The Game;3.3
+2149;111;The Forest;3.1
+2150;111;Euro Truck Simulator 2;3
+2151;111;Terraria;2.8
+2152;111;Rocket League;2.1
+2153;111;Human: Fall Flat;1.8
+2154;111;Garry's Mod;1.6
+2155;111;Conqueror's Blade;1.4
+2156;111;Warframe;1.3
+2157;111;Black Squad;1.3
+2158;111;PAYDAY 2;0.8
+2159;111;Kenshi;0.7
+2160;111;Realm Royale;0.6
+2161;111;Team Fortress 2;0.6
+2162;111;Titan Quest Anniversary Edition;0.6
+2163;111;Hunt: Showdown (Test Server);0.3
+2164;111;Dirty Bomb;0.1
+2165;112;Counter-Strike: Global Offensive;182
+2166;112;Sniper Elite 4;29
+2167;112;Tomb Raider;11.9
+2168;112;Half-Life 2;0.9
+2169;112;Warface;0.8
+2170;112;Ring of Elysium;0.5
+2171;112;Metro 2033;0.4
+2172;112;Insurgency;0.4
+2173;112;Black Squad;0.3
+2174;112;Sniper Fury;0.3
+2175;112;Team Fortress 2;0.2
+2176;112;For Honor;0.2
+2177;112;Fistful of Frags;0.2
+2178;112;Half-Life 2: Lost Coast;0.1
+2179;113;Counter-Strike: Global Offensive;218
+2180;113;Terraria;87
+2181;113;Rise of Nations: Extended Edition;60
+2182;113;Garry's Mod;38
+2183;113;Grand Theft Auto V;37
+2184;113;Wallpaper Engine;33
+2185;113;Batman: Arkham City GOTY;23
+2186;113;Batman™: Arkham Knight;21
+2187;113;Euro Truck Simulator 2;19.6
+2188;113;Batman™: Arkham Origins;13
+2189;113;Half-Life 2;10.7
+2190;113;Brawlhalla;10.6
+2191;113;Murderous Pursuits;9.6
+2192;113;Papers  Please;9.6
+2193;113;Rise of the Tomb Raider;9.6
+2194;113;Hand Simulator;9.5
+2195;113;60 Seconds!;9.5
+2196;113;60 Seconds! Reatomized;9.5
+2197;113;Left 4 Dead 2;9.3
+2198;113;The Witcher 3: Wild Hunt;9.2
+2199;113;Tomb Raider;9.1
+2200;113;Batman: Arkham Asylum GOTY Edition;8.5
+2201;113;Age of Mythology: Extended Edition;7.9
+2202;113;World War II: Panzer Claws;7.6
+2203;113;Portal 2;7.4
+2204;113;Hearts of Iron IV;6.8
+2205;113;BADLAND: Game of the Year Edition;6.7
+2206;113;This War of Mine;6.4
+2207;113;Dying Light;6.4
+2208;113;Human: Fall Flat;6.3
+2209;113;PAYDAY 2;5.7
+2210;113;The Witcher 2: Assassins of Kings Enhanced Edition;5.6
+2211;113;Dying Light: Bad Blood;5.2
+2212;113;Don't Starve Together;5.2
+2213;113;Gorky 17;5.1
+2214;113;Mortal Kombat 11;4.9
+2215;113;Grand Theft Auto IV;4.3
+2216;113;Tom Clancy's Rainbow Six Siege;3.4
+2217;113;Business Tour - Online Multiplayer Board Game;3.4
+2218;113;Zula Online;3.3
+2219;113;Broken Dreams;2.4
+2220;113;Sleeping Valley;2.2
+2221;113;KurtzPel;1.9
+2222;113;FRAMED Collection;1.7
+2223;113;Portal;1.1
+2224;113;The Witcher: Enhanced Edition;0.8
+2225;113;Team Fortress 2;0.7
+2226;113;L.A. Noire;0.7
+2227;113;Assassin's Creed II;0.5
+2228;113;Sleeping Dogs: Definitive Edition;0.4
+2229;113;Grand Theft Auto: San Andreas;0.4
+2230;113;Counter-Strike: Source;0.4
+2231;113;Max Payne;0.2
+2232;113;Grand Theft Auto: Vice City;0.2
+2233;113;Grand Theft Auto III;0.2
+2234;113;Max Payne 2: The Fall of Max Payne;0.1
+2235;113;Bully: Scholarship Edition;0.1
+2236;113;Half-Life;0.1
+2237;113;Dota 2;0.1
+2238;114;PLAYERUNKNOWN'S BATTLEGROUNDS;457
+2239;114;MONSTER HUNTER: WORLD;206
+2240;114;Dota 2;21
+2241;114;Conan Exiles;19.3
+2242;114;Geometry Dash;10
+2243;114;Material Girl;5.2
+2244;114;ICEY;5
+2245;114;BattleBlock Theater;4.3
+2246;114;Poly Bridge;3.6
+2247;114;Battle Royale Trainer;3.4
+2248;114;Z1 Battle Royale;2.8
+2249;114;Ring of Elysium;1.4
+2250;114;Tricolour Lovestory;1.2
+2251;114;Aim Hero;0.7
+2252;114;Cities: Skylines;0.2
+2253;114;Counter-Strike: Global Offensive;0.2
+2254;114;Totally Accurate Battlegrounds;0.2
+2255;115;PLAYERUNKNOWN'S BATTLEGROUNDS;4602
+2256;115;Grand Theft Auto V;232
+2257;115;NBA 2K17;14.4
+2258;115;Wallpaper Engine;3.1
+2259;115;Z1 Battle Royale;0.6
+2260;116;PLAYERUNKNOWN'S BATTLEGROUNDS;417
+2261;116;Don't Starve Together;156
+2262;116;Counter-Strike: Global Offensive;37
+2263;116;Don't Starve;36
+2264;116;Lost Castle;35
+2265;116;Wallpaper Engine;18.7
+2266;116;Plants vs. Zombies: Game of the Year;6
+2267;116;60 Seconds!;2.7
+2268;116;60 Parsecs!;0.7
+2269;116;Human: Fall Flat;0.7
+2270;117;PLAYERUNKNOWN'S BATTLEGROUNDS;2375
+2271;117;Counter-Strike: Global Offensive;24
+2272;117;Wallpaper Engine;9.3
+2273;117;Warframe;1.5
+2274;117;Bierzerkers;0.2
+2275;118;Euro Truck Simulator 2;1290
+2276;118;Dota 2;204
+2277;118;Grand Theft Auto V;124
+2278;118;Dead by Daylight;108
+2279;118;For Honor;37
+2280;118;Bloodstained: Ritual of the Night;35
+2281;118;Middle-earth™: Shadow of War™;35
+2282;118;Factorio;25
+2283;118;Counter-Strike: Global Offensive;22
+2284;118;Hunt: Showdown;16.2
+2285;118; Sands of Salzaar;15.9
+2286;118;Tom Clancy's Ghost Recon® Wildlands;15.8
+2287;118;DAEMON X MACHINA;12.2
+2288;118;RESIDENT EVIL 7 biohazard / BIOHAZARD 7 resident evil;9.2
+2289;118;Human: Fall Flat;8.5
+2290;118;PLAYERUNKNOWN'S BATTLEGROUNDS;6.5
+2291;118;Devotion;1.6
+2292;118;Pummel Party;1.1
+2293;118;Gang Beasts;0.8
+2294;118;Z1 Battle Royale;0.4
+2295;118;Lords Of The Fallen;0.2
+2296;119;Dota 2;399
+2297;119;World of Warships;15.7
+2298;119;EVE Online;0.4
+2299;120;Emporea;11.3
+2300;120;AION Free-to-Play;8.8
+2301;121;Dota 2;718
+2302;121;The Expendabros;2.5
+2303;121;WARMODE;2.2
+2304;121;Dota 2;2.1
+2305;121;Unturned;0.8
+2306;122;PLAYERUNKNOWN'S BATTLEGROUNDS;553
+2307;122;Counter-Strike: Global Offensive;361
+2308;122;Borderlands 2;118
+2309;122;Dungreed;80
+2310;122;Wallpaper Engine;60
+2311;122;Warframe;49
+2312;122;Z1 Battle Royale;40
+2313;122;Dishonored 2;39
+2314;122;Dead Cells;36
+2315;122;Fallout 4;32
+2316;122;Sword Art Online: Fatal Bullet;25
+2317;122;NARUTO SHIPPUDEN: Ultimate Ninja STORM 4;24
+2318;122;Tales of Zestiria;20
+2319;122;Plants vs. Zombies: Game of the Year;16.4
+2320;122;Dishonored;15.8
+2321;122;Tomb Raider;13.1
+2322;122;Rise of the Tomb Raider;11
+2323;122;Chinese Parents;10.4
+2324;122;The Binding of Isaac;10.1
+2325;122;KurtzPel;8
+2326;122;Lords Of The Fallen;6.5
+2327;122;Beat Da Beat;5.2
+2328;122;Human: Fall Flat;3.4
+2329;122;Insurgency;3.2
+2330;122;Intralism;2.8
+2331;122;Ring of Elysium;2.6
+2332;122;Enter the Gungeon;2.4
+2333;122;METAL SLUG 3;1.7
+2334;122;THE KING OF FIGHTERS XIII STEAM EDITION;1.6
+2335;122;METAL SLUG X;1.5
+2336;122;DmC Devil May Cry;1.4
+2337;122;METAL SLUG;1.4
+2338;122;Terraria;1.3
+2339;122;Unturned;1.2
+2340;122;The Binding of Isaac: Rebirth;1
+2341;122;ICEY;0.9
+2342;122;Need for Speed: Hot Pursuit;0.7
+2343;122;H1Z1: Test Server;0.5
+2344;122;The Bug Butcher;0.5
+2345;122;Left 4 Dead 2;0.4
+2346;122;Counter-Strike: Condition Zero Deleted Scenes;0.4
+2347;122;Super Mustache;0.3
+2348;122;PlanetSide 2;0.2
+2349;122;64;0.2
+2350;123;Counter-Strike: Global Offensive;691
+2351;123;PLAYERUNKNOWN'S BATTLEGROUNDS;239
+2352;123;Left 4 Dead 2;2.9
+2353;123;HITMAN™ 2;1.9
+2354;123;A Story About My Uncle;1.9
+2355;123;Black Squad;1.6
+2356;123;Team Fortress 2;1.3
+2357;123;Dota 2;0.3
+2358;124;Counter-Strike: Global Offensive;746
+2359;124;PLAYERUNKNOWN'S BATTLEGROUNDS;302
+2360;124;Grand Theft Auto V;228
+2361;124;War Thunder;171
+2362;124;Watch_Dogs 2;48
+2363;124;Wallpaper Engine;11
+2364;124;Left 4 Dead 2;10.8
+2365;124;Tom Clancy's Rainbow Six Siege;9.9
+2366;124;Stick Fight: The Game;8.7
+2367;124;Human: Fall Flat;8.4
+2368;124;ARK: Survival Evolved;6.7
+2369;124;Halo: The Master Chief Collection;5.1
+2370;124;Hand Simulator;4.7
+2371;124;Warface;3.7
+2372;124;Need for Speed: Hot Pursuit;3.2
+2373;124;Far Cry 5;3
+2374;124;Unturned;2.7
+2375;124;Rising Storm/Red Orchestra 2 Multiplayer;1.9
+2376;124;SMITE;1.8
+2377;124;Arma 3;1.8
+2378;124;SAO Utils;1.7
+2379;124;Lost;1.7
+2380;124;Dying Light;1.5
+2381;124;Saints Row: The Third;1.5
+2382;124;Haydee;1.4
+2383;124;Garry's Mod;1.4
+2384;124;Sid Meier's Civilization VI;1.2
+2385;124;FlatOut 2;1.2
+2386;124;Bastion;1.2
+2387;124;NEKOPARA Vol. 2;1.1
+2388;124;Dota 2;1.1
+2389;124;Rise of the Tomb Raider;1.1
+2390;124;Depth;1.1
+2391;124;NEKOPARA Vol. 1;0.9
+2392;124;Beat Hazard 2;0.9
+2393;124;Assetto Corsa;0.8
+2394;124;Hentai Mosaique Fix-IT Shoppe;0.8
+2395;124;The Expendabros;0.8
+2396;124;Insurgency;0.8
+2397;124;符文女孩/Rune Girl;0.7
+2398;124;Red Dead Redemption 2;0.7
+2399;124;Portal 2;0.7
+2400;124;Saints Row IV;0.7
+2401;124;hot and lovely;0.7
+2402;124;West Sweety;0.7
+2403;124;Mirror;0.7
+2404;124;Undertale;0.6
+2405;124;Besiege;0.6
+2406;124;Genital Jousting;0.6
+2407;124;NEKOPARA Vol. 3;0.5
+2408;124;Farm Manager 2018;0.4
+2409;124;Street Fighter V;0.4
+2410;124;CS2D;0.4
+2411;124;Miss Neko;0.4
+2412;124;No Man's Sky;0.4
+2413;124;Goat Simulator;0.3
+2414;124;Seek Girl Ⅱ;0.3
+2415;124;Euro Truck Simulator 2;0.3
+2416;124;SENRAN KAGURA Burst Re:Newal;0.3
+2417;124;Seek Girl;0.3
+2418;124;Taboos: Cracks;0.3
+2419;124;Plague Inc: Evolved;0.3
+2420;124;Wet Girl;0.3
+2421;124;Cortex Command;0.3
+2422;124;Getting Over It with Bennett Foddy;0.3
+2423;124;Hentai Girl;0.2
+2424;124;NEKOPARA Vol. 0;0.2
+2425;124;Seek Girl Ⅳ;0.2
+2426;124;Pretty Angel;0.2
+2427;124;DiRT Rally 2.0;0.2
+2428;124;Picture toys;0.2
+2429;124;CATGIRL LOVER 2;0.2
+2430;124;Totally Accurate Battle Simulator;0.2
+2431;124;Seek Girl Ⅲ;0.2
+2432;124;Starlight;0.2
+2433;124;Cities: Skylines;0.2
+2434;124;Paunch;0.2
+2435;124;b;0.1
+2436;125;Counter-Strike: Global Offensive;3135
+2437;125;Might & Magic: Heroes VI;116
+2438;125;Assassin's Creed IV Black Flag;101
+2439;125;The Witcher 2: Assassins of Kings Enhanced Edition;48
+2440;125;The Witcher 3: Wild Hunt;40
+2441;125;Tom Clancy's Splinter Cell Blacklist;33
+2442;125;Assassin's Creed Rogue;29
+2443;125;Tom Clancy's Splinter Cell: Conviction;14.6
+2444;125;Deus Ex: Human Revolution - Director's Cut;6.4
+2445;125;Watch_Dogs;4.3
+2446;125;Assassin's Creed Unity;2
+2447;126;Counter-Strike: Global Offensive;301
+2448;126;Dying Light;87
+2449;126;Prey;77
+2450;126;Far Cry 5;56
+2451;126;Wallpaper Engine;22
+2452;126;Mega Man Legacy Collection 2;20
+2453;126;Mega Man Legacy Collection;12.4
+2454;126;100% Orange Juice;6.7
+2455;126;Far Cry Primal;3.2
+2456;126;Aim Hero;1.3
+2457;127;PLAYERUNKNOWN'S BATTLEGROUNDS;699
+2458;127;Human: Fall Flat;12.1
+2459;127;Dota 2;0.3
+2460;128;Z1 Battle Royale;0.1
+2461;128;PLAYERUNKNOWN'S BATTLEGROUNDS;288
+2462;128;Counter-Strike: Global Offensive;78
+2463;128;Grand Theft Auto V;43
+2464;128;Human: Fall Flat;7.9
+2465;128;Dota 2;0.9
+2466;128;Warframe;0.7
+2467;128;Alien Swarm: Reactive Drop;0.3
+2468;129;Counter-Strike: Global Offensive;534
+2469;129;Total War: EMPIRE - Definitive Edition;144
+2470;129;Euro Truck Simulator 2;107
+2471;129;Total War: ATTILA;96
+2472;129;Car Mechanic Simulator 2018;50
+2473;129;Europa Universalis IV;4.7
+2474;129;Ring of Elysium;1.4
+2475;129;Bus-Simulator 2012;1.2
+2476;129;Heroes & Generals;1.1
+2477;129;Z1 Battle Royale;1.1
+2478;129;Microsoft Flight Simulator X: Steam Edition;0.5
+2479;129;HARP;0.4
+2480;129;Insurgency;0.3
+2481;130;Counter-Strike: Global Offensive;417
+2482;130;Dota 2;397
+2483;130;Unturned;18.6
+2484;130;Paladins;17.6
+2485;130;Dota Underlords;10.6
+2486;130;Team Fortress 2;7.5
+2487;130;Borderlands 2 RU;6.9
+2488;130;Warframe;4.1
+2489;130;KurtzPel;3.8
+2490;130;Star Crusade CCG;2.6
+2491;130;Battlerite Royale;1.5
+2492;130;Spec Ops: The Line;0.8
+2493;130;Battlerite;0.3
+2494;130;Borderlands 2;0.2
+2495;130;Trove;0.1
+2496;130;Paladins;0.9
+2497;130;Warframe;0.1
+2498;131;Dota 2;3441
+2499;131;Counter-Strike: Global Offensive;2309
+2500;131;PLAYERUNKNOWN'S BATTLEGROUNDS;155
+2501;131;Easy eSports;13.8
+2502;131;Destiny 2;10.6
+2503;131;UNO;9.5
+2504;131;The Crew 2;6.3
+2505;131;Monopoly Plus;1.7
+2506;131;The Forest;1.5
+2507;131;PCMark 10;1.1
+2508;131;PlanetSide 2;0.6
+2509;131;Deceit;0.5
+2510;132;Counter-Strike: Global Offensive;600
+2511;132;Unturned;29
+2512;132;Paladins;13.1
+2513;132;Team Fortress 2;6
+2514;132;Warface;1.4
+2515;132;Dota 2;0.9
+2516;132;Ring of Elysium;0.3
+2517;133;Counter-Strike: Global Offensive;400
+2518;133;PLAYERUNKNOWN'S BATTLEGROUNDS;77
+2519;133;Grand Theft Auto V;25
+2520;133;Dying Light;23
+2521;133;Tomb Raider;19.9
+2522;133;Euro Truck Simulator 2;13.5
+2523;133;Rust;11.1
+2524;133;Grand Theft Auto IV;10.7
+2525;133;Zula Online;8.9
+2526;133;Watch_Dogs 2;7.2
+2527;133;Counter-Strike: Source;5.9
+2528;133;BROKE PROTOCOL: Online City RPG;5.3
+2529;133;How to Survive 2;5.3
+2530;133;Rise of the Tomb Raider;4.9
+2531;133;Outlast;4.4
+2532;133;Saints Row: The Third;4.3
+2533;133;Rocket League;3.5
+2534;133;Lucius;3.4
+2535;133;Grand Theft Auto: San Andreas;3.3
+2536;133;Argo;3.1
+2537;133;Z1 Battle Royale;2.8
+2538;133;Portal;2.7
+2539;133;Orwell;2.7
+2540;133;Zup! X;2.7
+2541;133;Max Payne;2.5
+2542;133;Portal 2;2.5
+2543;133;Deponia;2.1
+2544;133;The Night of the Rabbit;2
+2545;133;Homefront;2
+2546;133;Left 4 Dead 2;1.9
+2547;133;Raft;1.9
+2548;133;Borderlands 2;1.9
+2549;133;SurvivalZ;1.8
+2550;133;Sniper Ghost Warrior 2;1.8
+2551;133;PAYDAY 2;1.7
+2552;133;Black Squad;1.6
+2553;133;Hitman: Contracts;1.5
+2554;133;Doki Doki Literature Club;1.4
+2555;133;Insurgency;1.2
+2556;133;Metro 2033 Redux;1.1
+2557;133;Aim Hero;1
+2558;133;Party Panic;0.8
+2559;133;Unturned;0.7
+2560;133;A Story About My Uncle;0.7
+2561;133;Team Fortress 2;0.6
+2562;133;Bully: Scholarship Edition;0.6
+2563;133;Zup! 8;0.6
+2564;133;Business Tour - Online Multiplayer Board Game;0.5
+2565;133;Saints Row IV;0.5
+2566;133;Cuisine Royale;0.5
+2567;133;Wallpaper Engine;0.5
+2568;133;Edna & Harvey: Harvey's New Eyes;0.4
+2569;133;Alien: Isolation;0.4
+2570;133;Blast Zone! Tournament;0.4
+2571;133;Age of Wonders III;0.4
+2572;133;Darwin Project;0.4
+2573;133;Sniper Art of Victory;0.3
+2574;133;Guns of Icarus Online;0.3
+2575;133;Cortex Command;0.3
+2576;133;Guns of Icarus Alliance;0.3
+2577;133;Memoria;0.2
+2578;133;Life is Strange™;0.2
+2579;133;No More Room in Hell;0.2
+2580;133;MadOut2 BigCityOnline;0.2
+2581;133;Snail Racer Extreme;0.2
+2582;133;Don't Starve Together;0.2
+2583;133;Brawlhalla;0.2
+2584;133;Warface;0.2
+2585;133;Albion Online;0.1
+2586;133;Easy eSports;0.1
+2587;134;Counter-Strike: Global Offensive;1140
+2588;134;Tom Clancy's Rainbow Six Siege;374
+2589;134;PLAYERUNKNOWN'S BATTLEGROUNDS;49
+2590;134;Wallpaper Engine;9.4
+2591;134;Rocket League;6.7
+2592;134;Tumblestone;6.1
+2593;134;Crossout;6
+2594;134;Earth 2160;5.7
+2595;134;Head Shot;4.8
+2596;134;Battle vs Chess;4.6
+2597;134;Two Worlds: Epic Edition;4.1
+2598;134;Iron Sky Invasion;3.7
+2599;134;Planets Under Attack;2.7
+2600;134;Slingshot people;2.2
+2601;134;World War III: Black Gold;2
+2602;134;Dream Pinball 3D;1.9
+2603;134;World of Tanks Blitz;0.5
+2604;134;Paladins;0.3
+2605;134;Deceit;0.1
+2606;135;Dota 2;154
+2607;136;Grand Theft Auto V;698
+2608;136;Warframe;500
+2609;136;PLAYERUNKNOWN'S BATTLEGROUNDS;182
+2610;136;MudRunner;41
+2611;136;Euro Truck Simulator 2;3.6
+2612;136;Counter-Strike: Global Offensive;2.2
+2613;137;PLAYERUNKNOWN'S BATTLEGROUNDS;325
+2614;137;Destiny 2;289
+2615;137;Killing Floor 2;130
+2616;137;Insurgency: Sandstorm;51
+2617;137;Borderlands 2;50
+2618;137;The Forest;48
+2619;137;PAYDAY 2;38
+2620;137;Ultimate Fishing Simulator;34
+2621;137;Prey;32
+2622;137;Counter-Strike: Global Offensive;27
+2623;137;Rise of the Tomb Raider;26
+2624;137;Hunt: Showdown;24
+2625;137;NieR:Automata™;17.5
+2626;137;The Evil Within 2;16.4
+2627;137;Warhammer: Vermintide 2;13.4
+2628;137;Quantum Break;10.8
+2629;137;Human: Fall Flat;9.9
+2630;137;JUMP FORCE;9.8
+2631;137;Shadow Warrior 2;8.6
+2632;137;Hollow Knight;8.6
+2633;137;Left 4 Dead 2;8
+2634;137;Transistor;6.9
+2635;137;Killing Floor;3.3
+2636;137;Deceit;2.9
+2637;137;Pacify;2.4
+2638;137;Freud Gate;1.6
+2639;137;Assassin's Creed Unity;1.4
+2640;137;SCP: Secret Laboratory;1
+2641;137;Planet Coaster;0.6
+2642;137;Minion Masters;0.4
+2643;137;Team Fortress 2;0.4
+2644;137;Warframe;0.2
+2645;138;PLAYERUNKNOWN'S BATTLEGROUNDS;242
+2646;138;NBA 2K19;142
+2647;138;Counter-Strike: Global Offensive;128
+2648;138;Grand Theft Auto V;91
+2649;138;Dead by Daylight;43
+2650;138;Rocket League;17
+2651;138;Friday the 13th: The Game;14.5
+2652;138;Cuphead;8.2
+2653;138;Business Tour - Online Multiplayer Board Game;6.6
+2654;138;Warframe;5.6
+2655;138;Paladins;5.5
+2656;138;Timberman;4.4
+2657;138;The Witcher 3: Wild Hunt;2.8
+2658;138;Zula Europe;2
+2659;138;Z1 Battle Royale;2
+2660;138;Ring of Elysium;1.8
+2661;138;PAYDAY 2;1.6
+2662;138;Don't Starve;1.1
+2663;138;Outlast;0.7
+2664;138;Darwin Project;0.5
+2665;138;Secret Neighbor;0.3
+2666;138;Layers of Fear;0.3
+2667;138;Hand Simulator;0.2
+2668;138;ATLAS;0.2
+2669;138;Fallout 3;0.1
+2670;138;Bendy and the Ink Machine;0.1
+2671;138;Killer is Dead;0.1
+2672;139;Dota 2;5513
+2673;139;ARK: Survival Evolved;20
+2674;139;Internet Cafe Simulator;9.5
+2675;139;PLAYERUNKNOWN'S BATTLEGROUNDS;1.2
+2676;139;ARK: Survival Of The Fittest;0.1
+2677;140;Dota Underlords;132
+2678;140;Counter-Strike: Global Offensive;129
+2679;140;Don't Starve Together;57
+2680;140;Dota 2;38
+2681;140;Far Cry 4;34
+2682;140;Left 4 Dead 2;29
+2683;140;Wallpaper Engine;15.1
+2684;140;PLAYERUNKNOWN'S BATTLEGROUNDS;13.1
+2685;140;Don't Starve;10.4
+2686;140;Raft;3.4
+2687;140;Far Cry 5;1.4
+2688;140;Human: Fall Flat;0.7
+2689;140;Z1 Battle Royale;0.7
+2690;140;Aim Hero;0.7
+2691;140;H1Z1: Test Server;0.6
+2692;140;Minecraft: Story Mode - A Telltale Games Series;0.1
+2693;141;Counter-Strike: Global Offensive;792
+2694;141;Left 4 Dead 2;422
+2695;141;The Witcher 3: Wild Hunt;170
+2696;141;Divinity: Original Sin 2;141
+2697;141;XCOM 2;86
+2698;141;Dishonored 2;78
+2699;141;Path of Exile;54
+2700;141;Dishonored RHCP;32
+2701;141;Quake Champions;29
+2702;141;Dishonored®: Death of the Outsider™;14.2
+2703;141;Dark Messiah of Might & Magic Single Player;13.9
+2704;141;Half-Life 2;13.8
+2705;141;Wolfenstein: The New Order;12.6
+2706;141;The Dwarves;10
+2707;141;Frostpunk;6.7
+2708;141;The Elder Scrolls IV: Oblivion;3.4
+2709;141;Grim Dawn;3.2
+2710;141;Warhammer: End Times - Vermintide;3.2
+2711;141;One Troll Army;2.8
+2712;141;Warhammer 40 000: Dawn of War - Soulstorm;2.5
+2713;141;How to Survive 2;2.5
+2714;141;Torchlight II;1.1
+2715;141;Warhammer 40 000: Dawn of War II - Retribution;1
+2716;141;Wallpaper Engine;0.9
+2717;141;Prey;0.6
+2718;141;Warhammer 40 000: Eternal Crusade;0.4
+2719;141;Batman™: Arkham Knight;0.1
+2720;142;Dota 2;1580
+2721;142;Dota Underlords;40
+2722;142;Shadow Warrior;1.5
+2723;142;Crusader Kings II;0.6
+2724;142;Art of War: Red Tides;0.2
+2725;142;SAMOLIOTIK;0.1
+2726;142;PLAYERUNKNOWN'S BATTLEGROUNDS;0.1
+2727;143;PLAYERUNKNOWN'S BATTLEGROUNDS;995
+2728;143;Far Cry 5;25
+2729;143;Counter-Strike: Global Offensive;10.3
+2730;143;The Forest;6.2
+2731;143;Dying Light;3.8
+2732;143;Human: Fall Flat;2.9
+2733;143;DARK SOULS™ III;2.4
+2734;143;MONSTER HUNTER: WORLD;1
+2735;144;Counter-Strike: Global Offensive;65
+2736;144;Call of Duty: Modern Warfare 2 - Multiplayer;19.2
+2737;144;Shadow Warrior;6.9
+2738;144;Oddworld: Abe's Oddysee;2.8
+2739;144;Viscera Cleanup Detail: Shadow Warrior;0.4
+2740;145;Z1 Battle Royale;1369
+2741;145;PLAYERUNKNOWN'S BATTLEGROUNDS;532
+2742;145;Counter-Strike: Global Offensive;242
+2743;145;Grand Theft Auto V;238
+2744;145;Wallpaper Engine;67
+2745;145;The Forest;49
+2746;145;H1Z1: Test Server;14
+2747;145;Human: Fall Flat;7.2
+2748;145;ARK: Survival Evolved;1.8
+2749;145;Paladins;0.7
+2750;146;Grand Theft Auto V;7.8
+2751;146;Euro Truck Simulator 2;4.4
+2752;146;Plague Inc: Evolved;3.4
+2753;146;NBA 2K19;2.2
+2754;146;Sid Meier's Civilization V;1.8
+2755;146;Counter-Strike: Global Offensive;0.6
+2756;146;PRO EVOLUTION SOCCER 2019;0.3
+2757;146;Age of Empires II (2013);0.3
+2758;147;Counter-Strike: Global Offensive;124
+2759;147;Paladins;23
+2760;147;PLAYERUNKNOWN'S BATTLEGROUNDS;20
+2761;147;PRO EVOLUTION SOCCER 2019 LITE;15.9
+2762;147;Warface;11.8
+2763;147;Ultimate Custom Night;11.7
+2764;147;Cuisine Royale;3
+2765;147;Unturned;2
+2766;147;Gotham City Impostors: Free To Play;1.5
+2767;147;Z1 Battle Royale;1.3
+2768;147;DiRT 3 Complete Edition;1.3
+2769;147;Zula Europe;1
+2770;147;The Backrooms Game FREE Edition;0.9
+2771;147;Fishing Planet;0.7
+2772;147;DiRT Rally;0.7
+2773;147;Dota 2;0.6
+2774;147;Paunch;0.6
+2775;147;Glitch;0.5
+2776;147;Dark Deception;0.5
+2777;147;Darwin Project;0.5
+2778;147;Realm Royale;0.4
+2779;147;Trimmer Tycoon;0.4
+2780;147;FROSTBITE: Deadly Climate;0.4
+2781;147;Beavers Be Dammed;0.4
+2782;147;Line of Sight;0.4
+2783;147;Creativerse;0.4
+2784;147;Last Man Standing;0.3
+2785;147;Walking Zombie 2;0.3
+2786;147;Drop Alive;0.3
+2787;147;Brawlhalla;0.2
+2788;147;scram;0.2
+2789;147;theHunter Classic;0.2
+2790;147;Westboro;0.2
+2791;147;Drunken Wrestlers 2;0.2
+2792;147;Alien Crusader;0.1
+2793;147;SYNTHETIK: Arena;0.1
+2794;147;Infestation: The New Z;0.1
+2795;148;Counter-Strike: Global Offensive;75
+2796;148;Euro Truck Simulator 2;29
+2797;148;Zula Online;7.4
+2798;148;Ben and Ed - Blood Party;5.2
+2799;148;Internet Cafe Simulator;0.6
+2800;149;PLAYERUNKNOWN'S BATTLEGROUNDS;923
+2801;149;Dota 2;41
+2802;149;Counter-Strike: Global Offensive;4.8
+2803;149;Ring of Elysium;2.9
+2804;150;Counter-Strike: Global Offensive;125
+2805;150;Animation Throwdown: The Quest for Cards;17.1
+2806;150;Wallpaper Engine;4.5
+2807;150;Sniper Elite 3;1.2
+2808;150;Realm Royale;0.5
+2809;150;High Profits;0.5
+2810;150;Emily is Away;0.2
+2811;151;Counter-Strike: Global Offensive;1210
+2812;151;Ring of Elysium;71
+2813;151;Soundpad;10.2
+2814;151;Paladins;9.6
+2815;151;PLAYERUNKNOWN'S BATTLEGROUNDS;7.6
+2816;151;Grand Theft Auto V;7
+2817;151;Rust;6
+2818;151;The Witcher 3: Wild Hunt;4
+2819;151;World of Tanks Blitz;1
+2820;151;Don't Starve Together;1
+2821;151;Dota 2;0.7
+2822;151;WARMODE;0.6
+2823;151;Outlast 2;0.4
+2824;152;Counter-Strike: Global Offensive;2953
+2825;152;PLAYERUNKNOWN'S BATTLEGROUNDS;758
+2826;152;DiRT Rally;6.8
+2827;153;Counter-Strike: Global Offensive;338
+2828;153;Paladins;44
+2829;153;Dota 2;7.4
+2830;153;Dota Underlords;1
+2831;153;Wallpaper Engine;0.7
+2832;153;PAYDAY 2;0.3
+2833;154;Tom Clancy's Rainbow Six Siege;282
+2834;154;Counter-Strike: Global Offensive;111
+2835;154;Left 4 Dead 2;99
+2836;154;Killing Floor 2;67
+2837;154;No More Room in Hell;37
+2838;154;Far Cry® 3;33
+2839;154;Rising Storm/Red Orchestra 2 Multiplayer;29
+2840;154;Day of Infamy;29
+2841;154;Assassin's Creed Revelations;26
+2842;154;Far Cry 4;19
+2843;154;Half-Life;18.3
+2844;154;BrainBread 2;14.5
+2845;154;Half-Life 2;13.6
+2846;154;Tomb Raider;11.4
+2847;154;Ring of Elysium;6.8
+2848;154;Dying Light;4.7
+2849;154;7 Days to Die;1.8
+2850;154;Codename CURE;1.3
+2851;154;Killing Floor;0.4
+2852;154;Dota 2;0.3
+2853;154;Z1 Battle Royale;0.2
+2854;155;Dota 2;1235
+2855;155;Dota Underlords;14.5
+2856;155;Counter-Strike: Global Offensive;1.9
+2857;156;Dota 2;639
+2858;156;Black Squad;22
+2859;156;Heroes & Generals;18.1
+2860;156;GunZ 2: The Second Duel;1.5
+2861;156;Counter-Strike: Global Offensive;0.3
+2862;156;Warframe;0.2
+2863;157;PLAYERUNKNOWN'S BATTLEGROUNDS;693
+2864;157;Dota 2;151
+2865;157;Human: Fall Flat;8.4
+2866;157;Don't Starve Together;7.9
+2867;157;Wallpaper Engine;4.8
+2868;157;Counter-Strike: Global Offensive;2.5
+2869;157;Brawlhalla;1.4
+2870;157;Spiral Knights;1.1
+2871;157;SpeedRunners;0.6
+2872;157;TSUKUMOHIME;0.3
+2873;158;Euro Truck Simulator 2;346
+2874;158;VRChat;298
+2875;158;Counter-Strike: Global Offensive;148
+2876;158;Portal 2;39
+2877;158;PAYDAY 2;39
+2878;158;Counter-Strike;39
+2879;158;Counter-Strike: Source;15.3
+2880;158;RollingBall: Unlimited World;9.6
+2881;158;Counter-Strike: Condition Zero;9.6
+2882;158;Counter-Strike: Condition Zero Deleted Scenes;9.6
+2883;158;WAY HOME;9.6
+2884;159;Sid Meier's Civilization V;205
+2885;159;Counter-Strike: Global Offensive;122
+2886;159;Europa Universalis IV;0.2
+2887;160;Tom Clancy's Rainbow Six Siege;523
+2888;160;Z1 Battle Royale;374
+2889;160;PLAYERUNKNOWN'S BATTLEGROUNDS;237
+2890;160;Counter-Strike: Global Offensive;199
+2891;160;MONSTER HUNTER: WORLD;199
+2892;160;Grand Theft Auto V;120
+2893;160;Farm Together;27
+2894;160;Assassin's Creed Odyssey;26
+2895;160;Chinese Parents;26
+2896;160;Human: Fall Flat;24
+2897;160;Raft;23
+2898;160;The Forest;13.6
+2899;160;Dota 2;13.2
+2900;160;Dying Light;13.1
+2901;160;Ring of Elysium;10.7
+2902;160;Steep;10.4
+2903;160;Slay the Spire;9.3
+2904;160;Clicker Heroes;9.1
+2905;160;Devil May Cry 5;8.8
+2906;160;Destiny 2;8.5
+2907;160;Witch It;8.1
+2908;160;Lost Castle;7.8
+2909;160;Tricky Towers;6.7
+2910;160;Red Dead Redemption 2;5.8
+2911;160;Otaku's Adventure;5.5
+2912;160;Super Bunny Man;5.2
+2913;160;Wallpaper Engine;5.2
+2914;160;Deceit;5.2
+2915;160;Totally Accurate Battlegrounds;4.9
+2916;160;Not Tonight;4.6
+2917;160;Business Tour - Online Multiplayer Board Game;4.4
+2918;160;Overcooked! 2;4.3
+2919;160;Refunct;4.3
+2920;160;Material Girl;4.2
+2921;160;60 Parsecs!;4.1
+2922;160;NARUTO SHIPPUDEN: Ultimate Ninja STORM 4;4
+2923;160;Portal 2;3.8
+2924;160;Mad Max;3.4
+2925;160;Monopoly Plus;3
+2926;160;Kerbal Space Program;3
+2927;160;Aim Hero;2.8
+2928;160;Tom Clancy's Rainbow Six Siege - Test Server;2.6
+2929;160;Bridge Constructor Portal;2.5
+2930;160;Treasure Hunter Simulator;2.2
+2931;160;Nyan Cat: Lost In Space;2.1
+2932;160;Wuppo - Definitive Edition;2.1
+2933;160;Devotion;2.1
+2934;160;Subnautica;2.1
+2935;160;Hand Simulator;2
+2936;160;H1Z1: Test Server;1.6
+2937;160;Miss Neko;1.5
+2938;160;Warframe;1.4
+2939;160;Shooty Skies;1.2
+2940;160;Trials Rising;1.1
+2941;160;Oik 2;1
+2942;160;METAL GEAR SURVIVE;1
+2943;160;Unturned;0.8
+2944;160;Little Triangle;0.8
+2945;160;HITMAN™ 2;0.6
+2946;160;Dota Underlords;0.5
+2947;160;Bridge Constructor;0.4
+2948;160;Fantasy Girl;0.4
+2949;160;Super Blue Boy Planet;0.2
+2950;160;PUSH;0.2
+2951;160;Pretty Angel;0.1
+2952;161;MONSTER HUNTER: WORLD;130
+2953;161;Dota 2;95
+2954;161;Sid Meier's Civilization VI;67
+2955;161;Counter-Strike: Global Offensive;65
+2956;161;Wallpaper Engine;63
+2957;161;The Witcher 3: Wild Hunt;62
+2958;161;PLAYERUNKNOWN'S BATTLEGROUNDS;39
+2959;161;Stardew Valley;39
+2960;161;Assassin's Creed Odyssey;39
+2961;161;Red Dead Redemption 2;34
+2962;161;Destiny 2;30
+2963;161;Don't Starve Together;28
+2964;161;Grand Theft Auto V;25
+2965;161;Remnant: From the Ashes;22
+2966;161;Total War: THREE KINGDOMS;19.6
+2967;161;Rise of the Tomb Raider;18.8
+2968;161;Frostpunk;18.1
+2969;161;DYNASTY WARRIORS 8: Xtreme Legends Complete Edition;17.8
+2970;161;Kingdom Rush Origins;13.5
+2971;161;Watch_Dogs 2;12.8
+2972;161;Mirror;12.5
+2973;161;Shadow of the Tomb Raider;10.4
+2974;161;Tomb Raider;9.4
+2975;161;Far Cry 5;9.3
+2976;161;Warframe;5.7
+2977;161;Assassin's Creed II;4.1
+2978;161;Warhammer: Vermintide 2;4
+2979;161;Railway Empire;3.7
+2980;161;Plants vs. Zombies: Game of the Year;3.3
+2981;161;RESIDENT EVIL 7 biohazard / BIOHAZARD 7 resident evil;3
+2982;161;Z1 Battle Royale;2.9
+2983;161;Assassin's Creed Origins;2.9
+2984;161;Human: Fall Flat;2.4
+2985;161;DEAD OR ALIVE Xtreme Venus Vacation;2.1
+2986;161;Euro Truck Simulator 2;1.7
+2987;161;LEGO® MARVEL's Avengers;1.7
+2988;161;Plague Inc: Evolved;1.5
+2989;161;VEGA Conflict;1
+2990;161;Heroes of Might & Magic V: Tribes of the East;1
+2991;161;Consummate:Missing World 寇莎梅特：困世迷情;0.7
+2992;161;Don't Starve;0.7
+2993;161;Battlerite;0.7
+2994;161;Dota Underlords;0.6
+2995;161;Black Survival;0.6
+2996;161;Eternal Card Game;0.5
+2997;161;Alien Swarm: Reactive Drop;0.3
+2998;161;Assassin's Creed III Remastered;0.2
+2999;161;A Story About My Uncle;0.2
+3000;161;Left 4 Dead 2;0.2
+3001;161;Northgard;0.1
+3002;161;Granado Espada;0.1
+3003;161;DYNASTY WARRIORS 9;0.1
+3004;162;Counter-Strike: Global Offensive;852
+3005;162;Garry's Mod;105
+3006;162;Unturned;20
+3007;162;Business Tour - Online Multiplayer Board Game;19.5
+3008;162;Paladins;10
+3009;162;S.K.I.L.L. - Special Force 2;9.6
+3010;162;Team Fortress 2;6.3
+3011;162;Trove;5.2
+3012;162;Infestation: The New Z;5.1
+3013;162;No More Room in Hell;4.5
+3014;162;Line of Sight;3.6
+3015;162;RaceRoom Racing Experience;3
+3016;162;SMITE;3
+3017;162;Cry of Fear;2.5
+3018;162;theHunter Classic;2.5
+3019;162;Destiny 2;1.7
+3020;162;Lurk in the Dark : Prologue;1.3
+3021;162;Easy eSports;1.3
+3022;162;Clicker Heroes;1.3
+3023;162;Codename CURE;0.9
+3024;162;Blacklight: Retribution;0.7
+3025;162;TrackMania Nations Forever;0.6
+3026;162;PlanetSide 2;0.6
+3027;162;Blameless;0.4
+3028;162;Anomaly Zone;0.3
+3029;162;Z1 Battle Royale;0.3
+3030;162;Heroes & Generals;0.3
+3031;162;BLOCKADE 3D;0.3
+3032;162;Gotham City Impostors: Free To Play;0.3
+3033;162;Ultimate Custom Night;0.3
+3034;162;Deceit;0.3
+3035;162;WT3;0.2
+3036;162;IRFaceRig;0.1
+3037;163;Counter-Strike: Global Offensive;709
+3038;163;PLAYERUNKNOWN'S BATTLEGROUNDS;431
+3039;163;Euro Truck Simulator 2;65
+3040;163;Black Desert;52
+3041;163;The Forest;14.8
+3042;163;Tower Unite;4
+3043;163;Metin2;2.8
+3044;163;Garry's Mod;1.4
+3045;164;DARK SOULS™ II: Scholar of the First Sin;158
+3046;164;Garry's Mod;79
+3047;164;Cry of Fear;71
+3048;164;Starbound;70
+3049;164;Just Cause 2;30
+3050;164;Wallpaper Engine;23
+3051;164;World of Guns: Gun Disassembly;20
+3052;164;Dead Island Definitive Edition;17.2
+3053;164;Dead Island Riptide;13.7
+3054;164;F.E.A.R. 2: Project Origin;13.6
+3055;164;F.E.A.R.;10.4
+3056;164;POSTAL 2;9.6
+3057;164;Dead Space 2;8.3
+3058;164;YUMENIKKI -DREAM DIARY-;7.5
+3059;164;Yume Nikki;7.4
+3060;164;Amnesia: The Dark Descent;7
+3061;164;Half-Life 2;5.3
+3062;164;Ultimate Custom Night;4.5
+3063;164;LEGO® The Lord of the Rings™;3.9
+3064;164;Blush Blush;3.9
+3065;164;Portal 2;3.5
+3066;164;RAGE;3.4
+3067;164;VRChat;3
+3068;164;Dead Space;3
+3069;164;Borderlands: The Pre-Sequel;2.8
+3070;164;Misao: Definitive Edition;2.6
+3071;164;Goat Simulator;2.3
+3072;164;The Evil Within;2.2
+3073;164;Verde Station;1.9
+3074;164;Condemned: Criminal Origins;1.7
+3075;164;Slender: The Arrival;1.6
+3076;164;Undertale;1.5
+3077;164;Half-Life 2: Update;1.4
+3078;164;Just Cause;1.4
+3079;164;Warframe;1.4
+3080;164;Borderlands 2;1.3
+3081;164;Layers of Fear;1.2
+3082;164;Saints Row: The Third;1.2
+3083;164;Dead Island Riptide Definitive Edition;0.8
+3084;164;A Story About My Uncle;0.8
+3085;164;BIGFOOT;0.8
+3086;164;Amnesia: A Machine for Pigs;0.8
+3087;164;Blameless;0.8
+3088;164;Dungeon Siege III;0.8
+3089;164;Spooky's Jump Scare Mansion: HD Renovation;0.7
+3090;164;Changed;0.7
+3091;164;Five Nights at Freddy's: Sister Location;0.7
+3092;164;CASE: Animatronics;0.7
+3093;164;Don't Starve Together;0.6
+3094;164;DOOM 3: BFG Edition;0.6
+3095;164;Just Cause 3;0.5
+3096;164;Resident Evil 6 / Biohazard 6;0.5
+3097;164;OH MY GOD  LOOK AT THIS KNIGHT;0.5
+3098;164;Spooky's Jump Scare Mansion;0.4
+3099;164;SCP: Secret Laboratory;0.4
+3100;164;Dungeon Nightmares II : The Memory;0.4
+3101;164;Minds Eyes;0.3
+3102;164;NaissanceE;0.3
+3103;164;the static speaks my name;0.3
+3104;164;Freddy Fazbear's Pizzeria Simulator;0.3
+3105;164;Boogeyman;0.3
+3106;164;Turbo Dismount;0.3
+3107;164;Fingerbones;0.2
+3108;164;Intrepid;0.2
+3109;164;Half-Life 2: Lost Coast;0.2
+3110;164;Emily Wants To Play;0.1
+3111;164;Emily Wants to Play Too;0.1
+3112;165;Counter-Strike: Global Offensive;389
+3113;165;Paladins;71
+3114;165;Creativerse;35
+3115;165;Line of Sight;14.7
+3116;165;Heavy Metal Machines;9.8
+3117;165;Darwin Project;9.7
+3118;165;Transformice;6.7
+3119;165;Team Fortress 2;6.5
+3120;165;SMITE;3.5
+3121;165;Tiger Knight;2
+3122;165;Tiger Knight: Empire War;1.6
+3123;165;Block N Load;1.5
+3124;165;Zula Europe;1.5
+3125;165;Destiny 2;1.3
+3126;165;Don't Starve Together;0.6
+3127;165;They Can't Stop All Of Us;0.5
+3128;165;Robocraft;0.5
+3129;165;Splitgate: Arena Warfare;0.5
+3130;165;Dota 2;0.5
+3131;165;Tribes: Ascend;0.2
+3132;166;PLAYERUNKNOWN'S BATTLEGROUNDS;264
+3133;166;Sid Meier's Civilization VI;86
+3134;166;Far Cry® 3;12.6
+3135;166;Heroes & Generals;0.2
+3136;166;HITMAN™ 2;0.2
+3137;166;MOBIUS FINAL FANTASY;0.5
+3138;167;Dota 2;89
+3139;167;Team Fortress 2;0.3
+3140;168;Counter-Strike: Global Offensive;130
+3141;168;Mount & Blade: Warband;50
+3142;168;Garry's Mod;21
+3143;168;Mount & Blade: With Fire and Sword;13
+3144;168;PLAYERUNKNOWN'S BATTLEGROUNDS;9.8
+3145;168;Mirror;8.4
+3146;168;FaceRig;8.2
+3147;168;Left 4 Dead 2;6.1
+3148;168;Company of Heroes;6.1
+3149;168;Tom Clancy's Rainbow Six Siege;5
+3150;168;Hand Simulator;3.8
+3151;168;Scrap Mechanic;3.1
+3152;168;Grand Theft Auto V;2.7
+3153;168;Dota 2;2.2
+3154;168;Colony Survival;1.6
+3155;168;Drop Alive;1.5
+3156;168;Cubic;1.4
+3157;168;Just Survive;1.3
+3158;168;Deep Diving Simulator;1
+3159;168;PC Building Simulator;0.4
+3160;168;Company of Heroes - Legacy Edition;0.3
+3161;168;ARK: Survival Evolved;0.3
+3162;168;THE DAY Online;0.3
+3163;168;Just Survive Test Server;0.1
+3164;169;Euro Truck Simulator 2;108
+3165;169;Internet Cafe Simulator;8.7
+3166;169;Zula Online;3.4
+3167;169;Counter-Strike: Global Offensive;2.4
+3168;170;Spintires®;80
+3169;170;Scrap Mechanic;36
+3170;170;Euro Truck Simulator 2;32
+3171;170;ASTRONEER;16
+3172;170;Farm Expert 2017;5.6
+3173;170;theHunter Classic;3.6
+3174;170;TrackMania Nations Forever;1.5
+3175;170;Business Tour - Online Multiplayer Board Game;0.8
+3176;170;Counter-Strike: Global Offensive;0.3
+3177;171;Warframe;394
+3178;171;PLAYERUNKNOWN'S BATTLEGROUNDS;339
+3179;171;Don't Starve Together;210
+3180;171;MONSTER HUNTER: WORLD;143
+3181;171;Grand Theft Auto V;132
+3182;171;Lost Castle;121
+3183;171;Dying Light;88
+3184;171;ARK: Survival Evolved;84
+3185;171;Deep Rock Galactic;55
+3186;171;Portal Knights;40
+3187;171;Wallpaper Engine;39
+3188;171;The Escapists 2;36
+3189;171;Terraria;33
+3190;171;Starbound;31
+3191;171;Rust;31
+3192;171;Craft The World;24
+3193;171;Raft;21
+3194;171;MorphVOX Pro - Voice Changer;20
+3195;171;DARK SOULS™ III;17.9
+3196;171;Counter-Strike: Global Offensive;10.5
+3197;171;Z1 Battle Royale;6.9
+3198;171;My Time At Portia;6.3
+3199;171;Ring of Elysium;5.6
+3200;171;The Witcher 3: Wild Hunt;5.1
+3201;171;Crashlands;4.2
+3202;171;HITMAN™ 2;3
+3203;171;Cities: Skylines;2.8
+3204;171;Castle Crashers;2.8
+3205;171;Amazing Cultivation Simulator;1.8
+3206;171;Minion Masters;1.7
+3207;171;Dota 2;1.5
+3208;171;Streets of Rogue;1.3
+3209;171;Peekaboo;1.2
+3210;171;Unturned;0.8
+3211;171;This War of Mine;0.7
+3212;171;Team Fortress 2;0.6
+3213;171;Russian Fishing 4;0.3
+3214;171;Starbound - Unstable;0.2
+3215;171;Left 4 Dead 2;0.1
+3216;172;Counter-Strike: Global Offensive;610
+3217;172;Black Squad;24
+3218;172;Paladins;5.5
+3219;172;Left 4 Dead 2;5.2
+3220;172;Blockstorm;4.1
+3221;172;Outlast;3.4
+3222;172;Portal 2;3.2
+3223;172;CLASH;2.8
+3224;172;Space Beret;2.7
+3225;172;Spoiler Alert;2.4
+3226;172;Gun Metal;2.3
+3227;172;Sixtieth Kilometer;2.2
+3228;172;Nightork Adventures - Beyond the Moons of Shadalee;2.2
+3229;172;Half-Life 2;2.2
+3230;172;Unturned;1.9
+3231;172;Minion Masters;1.7
+3232;172;CRACKHEAD;1.7
+3233;172;Let's Draw;1.7
+3234;172;Pixel Puzzles: UndeadZ;1.7
+3235;172;Soldiers: Heroes of World War II;1.3
+3236;172;Pixel Puzzles Ultimate;1.2
+3237;172;Killing Floor;1.1
+3238;172;Trove;1
+3239;172;PRO EVOLUTION SOCCER 2017 TRIAL EDITION;0.9
+3240;172;Cry of Fear;0.6
+3241;172;Block N Load;0.5
+3242;172;PAYDAY 2;0.5
+3243;172;Team Fortress 2;0.3
+3244;172;Worm.is: The Game;0.2
+3245;172;Lost Moon;0.2
+3246;172;Deceit;0.2
+3247;173;Grand Theft Auto V;382
+3248;173;Rocket League;266
+3249;173;Wallpaper Engine;213
+3250;173;Garry's Mod;92
+3251;173;The Evil Within 2;48
+3252;173;Beat Saber;38
+3253;173;Mortal Kombat X;35
+3254;173;Z1 Battle Royale;24
+3255;173;Rust;21
+3256;173;Just Cause 3;19.9
+3257;173;Deceit;17.3
+3258;173;PLAYERUNKNOWN'S BATTLEGROUNDS;12.6
+3259;173;Totally Accurate Battlegrounds;11.9
+3260;173;Saints Row: The Third;10.3
+3261;173;Reign Of Kings;9.5
+3262;173;Undertale;8.8
+3263;173;War Thunder;7.9
+3264;173;Saints Row IV;7.4
+3265;173;Pavlov VR;7.3
+3266;173;Surgeon Simulator;7.1
+3267;173;Paladins;6.8
+3268;173;Portal 2;6.7
+3269;173;Tom Clancy's Rainbow Six Siege;6.6
+3270;173;Saints Row: Gat out of Hell;5.8
+3271;173;Last Man Standing;5.8
+3272;173;Call of Duty: Black Ops II - Multiplayer;5.5
+3273;173;Papers  Please;5.4
+3274;173;SCP: Secret Laboratory;4.7
+3275;173;Goat Simulator;4.3
+3276;173;Team Fortress 2;4
+3277;173;The Elder Scrolls V: Skyrim;3.7
+3278;173;Realm Royale;3.6
+3279;173;Kingspray Graffiti;3.3
+3280;173;FIVE NIGHTS AT FREDDY'S: HELP WANTED;2.9
+3281;173;Call of Duty: Black Ops II - Zombies;2.6
+3282;173;Who's Your Daddy;2.6
+3283;173;Fallout Shelter;2.4
+3284;173;Assassin's Creed Origins;1.9
+3285;173;The Walking Dead;1.9
+3286;173;Anno 1404: Venice;1.8
+3287;173;Robocraft;1.7
+3288;173;Poker Night at the Inventory;1.3
+3289;173;Ampu-Tea;1.3
+3290;173;I am Bread;1.2
+3291;173;Strider;1.2
+3292;173;Just Cause™ 3: Multiplayer Mod;1.1
+3293;173;Sam & Max 101: Culture Shock;0.8
+3294;173;Unturned;0.7
+3295;173;VRChat;0.6
+3296;173;No More Room in Hell;0.6
+3297;173;NVIDIA® VR Funhouse;0.5
+3298;173;Counter-Strike: Global Offensive;0.5
+3299;173;Oh...Sir! The Insult Simulator;0.4
+3300;173;Project CARS;0.4
+3301;173;DmC Devil May Cry;0.4
+3302;173;Outlast;0.4
+3303;173;Umbrella Corps™ / Biohazard Umbrella Corps™;0.4
+3304;173;Garfield Kart;0.4
+3305;173;Dark Deception;0.3
+3306;173;Amnesia: A Machine for Pigs;0.3
+3307;173;Ultimate Custom Night;0.3
+3308;173;Long Live Santa!;0.2
+3309;173;Killer is Dead;0.2
+3310;173;Sakura Clicker;0.2
+3311;173;Creativerse;0.2
+3312;173;Freddy Fazbear's Pizzeria Simulator;0.2
+3313;173;The Lab;0.2
+3314;173;The Darkness II;0.2
+3315;173;Papers  Please - The Short Film;0.2
+3316;173;Cuisine Royale;0.2
+3317;173;F1 2015;0.1
+3318;173;Ultimate Desktop Character Engine;0.1
+3319;173;Counter-Strike;0.1
+3320;174;PLAYERUNKNOWN'S BATTLEGROUNDS;444
+3321;174;MONSTER HUNTER: WORLD;190
+3322;174;Counter-Strike: Global Offensive;66
+3323;174;Sekiro™: Shadows Die Twice;35
+3324;174;RESIDENT EVIL 7 biohazard / BIOHAZARD 7 resident evil;14.3
+3325;174;Tom Clancy's Rainbow Six Siege;13.3
+3326;174;Resident Evil 7 / Biohazard 7 Teaser: Beginning Hour;12.4
+3327;174;Devil May Cry 5;11.3
+3328;174;Frostpunk;10.3
+3329;174;Remnant: From the Ashes;8.9
+3330;174;Shadow of the Tomb Raider;5.5
+3331;174;Dungreed;3.6
+3332;174;Ring of Elysium;1.4
+3333;174;DARK SOULS™ III;1.2
+3334;174;Wallpaper Engine;0.1
+3335;175;Dota 2;991
+3336;175;Counter-Strike: Global Offensive;120
+3337;175;Warframe;85
+3338;175;Terraria;40
+3339;175;Paladins;35
+3340;175;Digimon Masters Online;19
+3341;175;Shadowverse;17.7
+3342;175;Plague Inc: Evolved;16.7
+3343;175;Bloons TD 6;9.1
+3344;175;Robocraft;7
+3345;175;Yu-Gi-Oh! Duel Links;6.2
+3346;175;Unturned;4.4
+3347;175;Trove;4
+3348;175;Elsword;2.7
+3349;175;VRChat;1.7
+3350;175;Minion Masters;0.5
+3351;175;Team Fortress 2;0.3
+3352;175;KurtzPel;0.2
+3353;175;Dota Underlords;0.2
+3354;175;Bit Heroes;0.2
+3355;176;Dota 2;0.8
+3356;177;PLAYERUNKNOWN'S BATTLEGROUNDS;695
+3357;177;LET IT DIE;4.7
+3358;177;Heroes & Generals;1
+3359;177;Warface;0.6
+3360;177;Ring of Elysium;0.6
+3361;177;Black Squad;0.6
+3362;177;Dota 2;0.5
+3363;178;PLAYERUNKNOWN'S BATTLEGROUNDS;895
+3364;178;Z1 Battle Royale;817
+3365;178;Dota 2;281
+3366;178;Lost Castle;220
+3367;178;Counter-Strike: Global Offensive;158
+3368;178;Rise of the Tomb Raider;110
+3369;178;Tom Clancy's Ghost Recon® Wildlands;70
+3370;178;Tom Clancy's Rainbow Six Siege;58
+3371;178;Remnant: From the Ashes;56
+3372;178;theHunter: Call of the Wild™;53
+3373;178;Assassin's Creed II;45
+3374;178;Fallout 4;43
+3375;178;Tomb Raider;31
+3376;178;Dying Light;25
+3377;178;Assassin's Creed Syndicate;25
+3378;178;Shadow of the Tomb Raider;19.1
+3379;178;Tom Clancy's The Division;18.3
+3380;178;Warframe;14.2
+3381;178;Legend of Merchant;7.5
+3382;178;Call of Duty: Infinite Warfare;7.4
+3383;178;Call of Duty: Advanced Warfare;7.3
+3384;178;Warface;6.7
+3385;178;Ring of Elysium;6.5
+3386;178;Resident Evil 6 / Biohazard 6;6.4
+3387;178;Call of Duty: Black Ops III;4.7
+3388;178;THE KING OF FIGHTERS XIII STEAM EDITION;3.4
+3389;178;Portal Knights;3
+3390;178;Destiny 2;2.5
+3391;178;THE KING OF FIGHTERS '97 GLOBAL MATCH;2
+3392;178;Nine Parchments;1.9
+3393;178;Stardew Valley;1.7
+3394;178;Hitman: Absolution;1.6
+3395;178;MONSTER HUNTER: WORLD;1.3
+3396;178;The Wild Eight;1.1
+3397;179;PLAYERUNKNOWN'S BATTLEGROUNDS;865
+3398;179;Battle Royale Trainer;1.3
+3399;179;Z1 Battle Royale;1.1
+3400;179;Just Survive Test Server;0.8
+3401;179;Counter-Strike: Global Offensive;0.4
+3402;180;Dota 2;779
+3403;180;Dota 2;548
+3404;180;Rust;430
+3405;180;PLAYERUNKNOWN'S BATTLEGROUNDS;296
+3406;180;Counter-Strike: Global Offensive;87
+3407;180;Realm Royale;42
+3408;180;Paladins;28
+3409;180;Darwin Project;17
+3410;180;Digimon Masters Online;7.6
+3411;180;The SKIES;2.8
+3412;180;Dota Underlords;0.6
+3413;180;Zula Online;0.3
+3414;181;Team Fortress 2;9.5
+3415;181;America's Army: Proving Grounds;3
+3416;181;Insurgency: Modern Infantry Combat;0.7
+3417;182;Counter-Strike: Global Offensive;2383
+3418;182;PLAYERUNKNOWN'S BATTLEGROUNDS;2067
+3419;182;For Honor;337
+3420;182;The Elder Scrolls Online;111
+3421;182;Insurgency;2.4
+3422;182;Crossout;1.7
+3423;182;Paladins;0.6
+3424;182;War Thunder;0.3
+3425;183;PLAYERUNKNOWN'S BATTLEGROUNDS;81
+3426;183;Mirror;12
+3427;183;The Long Dark;7.6
+3428;184;Team Fortress 2;384
+3429;184;7 Days to Die;305
+3430;184;Cuisine Royale;61
+3431;184;The Forest;48
+3432;184;Counter-Strike: Global Offensive;43
+3433;184;Unturned;36
+3434;184;Stronghold Kingdoms;20
+3435;184;Fallout Shelter;14.8
+3436;184;Sniper: Ghost Warrior;9.3
+3437;184;Elsword Free-to-Play;9
+3438;184;GUNS UP!;8.8
+3439;184;Creativerse;7.8
+3440;184;Castle Clicker;1.3
+3441;184;Infestation: The New Z;1
+3442;184;Dirty Bomb;0.6
+3443;184;Path of Exile;0.6
+3444;184;Zombie Apocalypse;0.6
+3445;184;Z1 Battle Royale;0.4
+3446;184;Tentlan;0.4
+3447;184;Yet Another Zombie Defense;0.3
+3448;184;METAL SLUG DEFENSE;0.1
+3449;184;Counter-Strike Nexon: Studio;0.1
+3450;184;Tactical Craft Online;0.1
+3451;185;Force of Nature;152
+3452;185;The Elder Scrolls V: Skyrim;142
+3453;185;Assassin's Creed Origins;95
+3454;185;Far Cry Primal;93
+3455;185;Far Cry 4;71
+3456;185;Mafia II;65
+3457;185;Deus Ex: Mankind Divided™;55
+3458;185;S.T.A.L.K.E.R.: Call of Pripyat;43
+3459;185;Raft;39
+3460;185;Kona;38
+3461;185;Tom Clancy's Splinter Cell Blacklist;35
+3462;185;No Man's Sky;31
+3463;185;Salt;30
+3464;185;Robocraft;30
+3465;185;Rise of the Tomb Raider;30
+3466;185;Assassin's Creed Syndicate;27
+3467;185;Tomb Raider;24
+3468;185;Sherlock Holmes: Crimes and Punishments;19.3
+3469;185;Gunpoint;17
+3470;185;The Forest;16.2
+3471;185;Portal 2;14.5
+3472;185;Spore;14.2
+3473;185;Fine Sweeper;13.7
+3474;185;Medieval Engineers;11.7
+3475;185;Assassin's Creed® III;10.8
+3476;185;Call of Duty: Advanced Warfare;10.8
+3477;185;Antichamber;10.5
+3478;185;Dead Rising 3;10.3
+3479;185;L.A. Noire;9.8
+3480;185;7 Days to Die;9.5
+3481;185;Middle-earth™: Shadow of Mordor™;8.9
+3482;185;Euro Truck Simulator 2;8.5
+3483;185;Miasmata;7.7
+3484;185;PLAYERUNKNOWN'S BATTLEGROUNDS;7.6
+3485;185;Plague Inc: Evolved;7.3
+3486;185;The Long Dark;6.4
+3487;185;Rogue Legacy;6
+3488;185;Kingdoms;5.5
+3489;185;Stranded Deep;5
+3490;185;The Talos Principle;4.7
+3491;185;The Vanishing of Ethan Carter;4.6
+3492;185;Door Kickers;4.4
+3493;185;Half-Life;4.4
+3494;185;ASTRONEER;4.1
+3495;185;Dead Secret;4
+3496;185;Rocket League;3.3
+3497;185;Alien: Isolation;3.1
+3498;185;Ultimate Chicken Horse;2.8
+3499;185;Dear Esther;2.8
+3500;185;Omerta - City of Gangsters;2.6
+3501;185;Reign Of Kings;2.5
+3502;185;Godus;2.4
+3503;185;Sniper Elite V2;2.1
+3504;185;Metro: Last Light;1.9
+3505;185;BioShock Infinite;1.7
+3506;185;1953 - KGB Unleashed;1.6
+3507;185;Sir  You Are Being Hunted;1.6
+3508;185;Team Fortress 2;1.5
+3509;185;Farming Simulator 15;1.3
+3510;185;Half-Life 2;1.2
+3511;185;Gauntlet™;1.1
+3512;185;Kentucky Route Zero;1.1
+3513;185;Besiege;1
+3514;185;Doorways: Prelude;0.9
+3515;185;FEZ;0.8
+3516;185;Kerbal Space Program;0.8
+3517;185;Crysis Warhead;0.8
+3518;185;BeamNG.drive;0.7
+3519;185;DreadOut;0.7
+3520;185;FTL: Faster Than Light;0.6
+3521;185;Poker Night at the Inventory;0.6
+3522;185;Portal;0.5
+3523;185;Only If;0.4
+3524;185;Euro Truck Simulator;0.4
+3525;185;Dota 2;0.4
+3526;185;Trickster VR;0.3
+3527;185;Left 4 Dead 2;0.3
+3528;185;SEGA Mega Drive & Genesis Classics;0.2
+3529;185;Banished;0.2
+3530;185;Castle Story;0.2
+3531;185;Terraria;0.2
+3532;185;Bully: Scholarship Edition;0.2
+3533;185;Insurgency;0.2
+3534;185;Quantum Conundrum;0.1
