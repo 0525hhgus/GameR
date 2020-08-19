@@ -109,7 +109,7 @@ def sim_pearson(data, name1, name2):
 
     
     for games in data[name1]:
-        if games in data[name2]: #같은 영화를 봤다면
+        if games in data[name2]: #같은 게임을 플레이했다면
             sum_name1 += pow(data[name1][games] - avg_name1, 2)
             sum_name2 += pow(data[name2][games] - avg_name2, 2)
             sum_name1_name2 += (data[name1][games] - avg_name1) * (data[name2][games] - avg_name2)
@@ -117,7 +117,7 @@ def sim_pearson(data, name1, name2):
    
 
     if( sum_name1_name2 == 0):
-        return 0;
+        return 0
     
     return (sum_name1_name2 / (math.sqrt(sum_name1)*math.sqrt(sum_name2)))
 
