@@ -3,7 +3,6 @@ import steam_crawling as sc
 import sim_function as sf
 import Recommend as rc
 
-
 userdata = {}
 playGame = {}
 
@@ -30,9 +29,10 @@ for r in ws.rows:
 
 userdata[preUser] = playGame
 
+# https://steamcommunity.com/profiles/76561198293005465/
 baseUrl = input('스팀 프로필 주소를 입력해주세요!')
 
-print('탐색 유저')
+print('유저 탐색 중')
 
 user = sc.steam_crawling(baseUrl)
 

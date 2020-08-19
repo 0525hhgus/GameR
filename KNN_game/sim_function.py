@@ -56,3 +56,12 @@ def sim_pearson(data, name1, name2):
         return 0
 
     return (sum_name1_name2 / (math.sqrt(sum_name1) * math.sqrt(sum_name2)))
+
+def top_match(data, name, index=3, sim_function=sim_pearson):
+    li=[]
+    for i in data: #딕셔너리를 돌고
+        if name!=i: #자기 자신이 아닐때만
+            li.append((sim_function(data,name,i),i)) #sim_function()을 통해 상관계수를 구하고 li[]에 추가
+    li.sort() #오름차순
+    li.reverse() #내림차순
+    return li[:index]
